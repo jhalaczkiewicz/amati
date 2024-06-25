@@ -1,0 +1,24 @@
+.p-head {font-size: 1.2em;
+    text-align: center;
+  font-weight: 200;
+}
+
+.tei-p2 {line-height: 1.6em;}
+
+.tei-ref {color: #8db9d7!important;
+    font-family: Sofia Sans Condensed, sans-serif!important;
+    font-weight:bold;
+}
+
+.fn-content {font-size: 0.8em;
+    margin-left: 15px;
+}
+
+#footnotes {margin-top: 50px;
+    border-top: solid lightgray 0.5px;
+}
+
+.margin-note {
+    padding-left: 10px!important;
+}
+

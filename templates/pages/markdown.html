@@ -1,0 +1,91 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+
+        <title data-template="config:app-title"/>
+        <meta name="description" content="Template for markdown page"/>
+        <meta name="pb-template" content="markdown.html"/>
+
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <style>
+            .toolbar pb-navigation {
+                display: none;
+            }
+            pb-markdown {
+                max-width: 800px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 150px;
+                margin-bottom: 150px;
+                border-top: groove lightgray 0.5px;
+            }
+            
+            pb-markdown p, ul, li {
+                font-size: 18px;
+                line-height: 1.5em;
+            }
+            
+            pb-markdown h1 {
+                font-style: Sofia Sans Condensed;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                font-size: 40px;
+            }
+            
+             pb-markdown h2 {
+                font-style: Sofia Sans Condensed;
+                letter-spacing: 1px;
+            }
+            
+            
+          body {
+              background-image: url(resources/images/logobackground.svg);
+                background-size: 90%;
+                background-repeat: repeat-y;
+          }
+          
+          a {color: #004668;}
+          a:hover {color: #ffe54c;}
+          
+          .content-body a:hover {
+              color: #004668;
+              background-color: #ffe54c;
+              transition: 0.4s;
+          }
+          
+       
+        </style>
+    </head>
+
+    <body>
+        <pb-page data-template="pages:pb-page" unresolved="unresolved">
+            <app-drawer-layout force-narrow="force-narrow">
+                <app-drawer data-template="lib:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout>
+                    <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall">
+                        <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+
+                    </app-header>
+                    <main class="content-body">
+                        <pb-markdown data-template="pages:parse-params" url="api/document/${doc}"/>
+                    </main>
+                </app-header-layout>
+            </app-drawer-layout>
+        </pb-page>
+        <div class="splash"/>
+    </body>
+      <footer class="version-mini">
+                    <ul>
+            <li>
+                Edycja na licencji <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a>
+            </li>
+        </ul>
+                </footer>
+</html>

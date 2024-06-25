@@ -1,0 +1,1095 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Posłowie japońscy do Pawła V biskupa rzymskiego. Naród i droga ich – edycja cyfrowa</title>
+        <author>Scipione Amati</author>
+        <respStmt>
+          <name>Jakub Śliwski</name>
+          <resp>translation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Franciszek Cezary</name>
+          <resp>print</resp>
+        </respStmt>
+        <editor xml:id="AL">Agata Lech</editor>
+        <editor xml:id="KK">Karolina Kapuścińska</editor>
+        <editor xml:id="GP">Gabriela Paszkowska</editor>
+        <editor xml:id="AS">Aleksandra Sobańska</editor>
+        <editor xml:id="AT">Agnieszka Tkacz</editor>
+        <editor xml:id="AG">Anna Grzybczyk</editor>
+        <editor xml:id="OZ">Olga Zatońska</editor>
+        <principal xml:id="JH">Joanna Hałaczkiewicz</principal>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name>Katedra Edytorstwa i Nauk Pomocniczych UJ</name>
+          <email>j.halaczkiewicz@uj.edu.pl</email>
+        </publisher>
+        <pubPlace>Kraków</pubPlace>
+        <date type="first" when="2024">2024</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc type="fair-copy" facs="https://polona.pl/api/search-index/search/iiif/45b00d44-4957-41c8-af0e-6e9ccae557ae/manifest.json">
+          <msIdentifier>
+            <institution>Biblioteka Narodowa</institution>
+            <idno>SD XVII.3.4543</idno>
+          </msIdentifier>
+          <physDesc>
+            <p>[8] kart, 112 stron; 4°</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="transcription">
+    <body>
+      <div type="0">
+        <pb n="1" facs="jpg/0021-2023-1183857.jpg"/>
+        <head>
+            Japońskiej tej historyjej autor i drogi uczestnik, poselstwa tego tłumacz, Scipio Amatus Romanus<ref target="n-1-1" type="noteAnchor">1</ref>
+                </head>
+        <head type="sub">Czytelnikowi.</head>
+        <p n="1">Wiecznego majestatu Pan i Bóg nasz, stworzywszy człowieka na swoje podobieństwo, nie ma więtszej uciechy, jako czynić mu dobrze i wywyższyć stan jego przez uczestnictwo, które mu na tym świecie dawa przez łaskę, a na drugim przez chwałę. Stądże mówi apostoł:
+          <cit type="bible">
+            <q>Bóg chce ludzi wszytkich zbawić, uczyniwszy to wszytko, co było trzeba z swej strony uczynić ku dostąpieniu tego końca.</q><ref target="n-1-2">2</ref>
+          </cit> Lecz jakoby zamulony<ref target="n-1-3">3</ref> rozum i skażoną wolą mając, człowiek nie tylko nie umie poznać swego dobrego, ale jeszcze wyuzdawszy się z bojaźni, którą ma częścią z tego światła boskiego, które mu Pan Bóg spólnie z duszą wlał – jako świadczy psalmista:
+          <cit type="bible">
+            <q>Wyrażone jest na nas światło twarzy twojej Panie</q><ref target="n-1-4">4</ref>
+          </cit> – częścią z sumnienia ze wnętrznego, które
+          <hi rend="ital">synderesim</hi><ref target="n-1-5">5</ref>
+          nazywamy, i światłem rozumu, które to człowieka z natury do niejakiej bojaźni od złego przywodzi; wyuzdawszy się, mówię, człowiek z tej bojaźni da się zwyciężać własnym namiętnościom i wpada w rodzaj rozmaitych grzechów. A chociaż najduje się już w takiej ślepocie rozumu, nie dla tego zbywa zarazem onego wnętrznego gryzienia sumnienia w grzechu i skłonności onej do swego Boga jako początku i końca natury ludzkiej. Co daje znać święty Augustyn nadobnie<ref target="n-1-6">6</ref>, mówiąc:
+          <cit type="patristic">
+            <q>
+              <foreign xml:lang="la">Fecisti nos Domine ad te; et in-</foreign>
+                        </q>
+                    </cit>
+                <pb n="2" facs="jpg/0022-2023-1183858.jpg"/>
+                    <cit type="patristic">
+                        <q>
+                            <foreign xml:lang="la">quietum est cor nostrum donec perueniar ad te.
+              </foreign> – Stworzyłeś nas Panie do siebie, przetoż nie uspokoi się serce nasze, aż przyjdzie do ciebie</q><ref target="n-2-1">7</ref>
+                    </cit>. Stądże to idzie, iż Bóg miłuje swój obraz na człowieku, by też był nagorszy (jako napisano w Księgach Mądrości:
+          <cit type="bible">
+            <q>
+              <foreign xml:lang="la">Nihil odisti eorum quae fecisti.</foreign> – Nie masz tego w nienawiści, miły Panie, co twoja ręka boska urobiła)</q><ref target="n-2-2">8</ref>
+          </cit>, a to wszytko ku temu końcowi, aby go przywiódł ku służbie swojej przez on śrzodek światła rozumu przyrodzonego i onę wlaną od Boga skłonność ku nawyższemu dobremu. Przetoż nalazszy w człowieku jaką dyspozycyją<ref target="n-2-3">9</ref>, niech będzie namniejsza – albo jaśniej jeszcze rzekszy, kiedy się Panu Bogu podoba oświecić człowieka i prowadzić go ku wiecznemu dobru – naprzód w nim uprząta wszytkie trudności tej drogi:
+          <cit type="bible">
+            <q>Ja jestem droga</q>
+          </cit> – Pan Chrystus mówi – nie tylko będąc drogą, ale też i żywotem wiecznym<ref target="n-2-4">10</ref>; potym wszytkie pęta diabelskie i węzły twarde grzechów – jako mówi psalmista – targa.
+          <cit type="bible">
+            <q>
+              <foreign xml:lang="la">Dirupisti vincula mea.</foreign> – Potargałeś pęta moje</q><ref target="n-2-5">11</ref>
+                    </cit>; to uczyniwszy dopiero sposabia rozum ludzki ku onym rzeczom niebieskim i pokłada namiętności jego pod wolą wdzięcznością zapaloną ku chwale swojej boskiej;
+          <cit type="bible">
+            <q>
+              <foreign xml:lang="la">tibi sacrificabo hostiam laudis.</foreign> – Tobie będę ofiarował ofiarę chwały.</q><ref target="n-2-6">12</ref>
+          </cit> Tym śrzodkiem nadprzyrodzonym boskim, którego sam tylko Pan Bóg może zażywać, czyniąc sposobną na przyjęcie darów swoich niebieskich naturę naszę, przyprowadził do łaski swojej Pan Bóg nie tylko pojedynkiem<ref target="n-2-7">13</ref> grzeszniki, ale też i całe królestwa, narody, prowincyje i rzeczypospolite z niewyliczoną liczbą dusz wyzwolonych od ciężkiej niewolej, brzydkiego bałwochwalstwa i grzechów; a przywiedzieniem do prawdziwej swobody z wysługi<ref target="n-2-8" type="noteAnchor">14</ref> nadroższej krwie Chrystusa Jezusa, używając w tym z dawna od początku (rzecz dziwna i pilnego uważenia godna)
+          <pb n="3" facs="jpg/0023-2023-1183859.jpg"/> naczynia podłego i u świata małego, jako mówi Paweł święty:
+          <cit type="bible">
+            <q>
+                            <foreign xml:lang="la">Infirma mundi elegit Deus, et contemptibilia, et ea quae non sunt.</foreign> – Słabe naczynia obrał Pan Bóg i wzgardzone,</q><ref target="n-3-1" type="noteAnchor">15</ref>
+          </cit> i te które jakoby nie były na świecie potrzebne, posyłając ich wedle swego boskiego zrządzenia czasu pogodnego<ref target="n-3-2" type="noteAnchor">16</ref>, w którym upatruje potrzebę i niedostatek kopaczów, jako dawny on od wieku gospodarz w winnicy swojej zwoływając ich do roboty różnemi godzinami: jednych rano, drugich o południu, trzecich przed wieczorem samym.<ref target="n-3-3" type="noteAnchor">17</ref> Oto i teraz tego wieku naszego wysłać raczył na robotę do wielkiej niesprawionej<ref target="n-3-4" type="noteAnchor">18</ref> części winnice swojej, którą ma w Japonie, robotniki gorące<ref target="n-3-5" type="noteAnchor">19</ref> i pożytek wielki w tej winnicy swojej czyniące, które zowią ojcami pod imieniem Pana Jezusowym zgromadzonemi <hi rend="ital">Patres Societatis Jesu</hi>.<ref target="n-3-6" type="noteAnchor">20</ref> A po tych zarazem zawołał discalców<ref target="n-3-7" type="noteAnchor">21</ref> (po naszemu w Polszcze mówiąc ojców bernardynów) zakonu wielebnego i błogosławionego patriarchy Franciszka świętego, filara Kościoła Bożego i ozdoby ojczyzny swojej, w której się urodził, ziemie włoskiej. Za któremi potym bracia świętego Dominika i świętego Augustyna na robotę w tamte kraje zaszli; którzy, aczkolwiek nierychło, za drugiemi byli zawołani, uczynili jednak Kościołowi Bożemu pożytek wielki. Abowiem nie tylko przepowiedzieli Ewanjeliją tam temu narodowi, ale też wyrazili rzeczą samą<ref target="n-3-8" type="noteAnchor">22</ref> to wszytko, co swemi usty nauczali. Używając do tej roboty Pan Bóg tych zacnych zakonów ludzi, którzy w oczach światowych zdali się być podli i wzgardzeni, jako mianowicie są ojcowie bernardyni zakonu Franciszka świętego, dla professyjej<ref target="n-3-9" type="noteAnchor">23</ref>, którą czynią na wyrażenie nauki Ewanjelijej świętej i na wzgardę wszytkich dóbr doczesnych, którzy w Japonie przepowiadają Słowo Boże z taką onych ludzi przyjęmnością<ref target="n-3-10" type="noteAnchor">24</ref>, a swą darzliwością<ref target="n-3-11" type="noteAnchor">25</ref>, iż dla
+          <pb n="4" facs="jpg/0024-2023-1183860.jpg"/> tego samego Japończycy jako dowcipni<ref target="n-4-1" type="noteAnchor">26</ref> i mądrzy uznawają, iż to, co gorąco mówią i czynią, właśnie się zgadza z Ewanjeliją świętą; ponieważ takich obyczajów osoby i takiej nauki, nie wydawałyby się na tak ciężkie utrapienia i na takie trudności dla wiary, gdyby nie mieli pewnej nadzieje o nagrodzie i odpocznieniu wiecznym. Uważając sobie, iż kto nie pokłada miłości w tych rzeczach doczesnych, już ten miłość swoję utopił w rzeczach wiecznych, które się nabywają sprawami nauce przystojnemi<ref target="n-4-2" type="noteAnchor">27</ref>. Tam się już pokazało jaśnie i z podziwieniem wielkim, jako ci przerzeczeni<ref target="n-4-3" type="noteAnchor">28</ref> zakonnicy w niebezpieczeństwo żywota idą wielkie dla przepowiadania zakonu Bożego<ref target="n-4-4" type="noteAnchor">29</ref>, dając świadectwo prawdzie, której pogaństwa nauczają. Przy tym, dawszy wielki przykład wielkiej stateczności<ref target="n-4-5" type="noteAnchor">30</ref> i stałości chrześcijańskiej świętym i sławnym męczeństwem, nie uchodząc<ref target="n-4-6" type="noteAnchor">31</ref> onych dawnych za czasów apostolskich przedniejszych męczenników, których krew wylana tak żyzne sprawiła pole Chrystusowe, iż we wszytkich królestwach japońskich jest poznana prawda Ewanjelijej świętej i liczba wiernych tamecznych<ref target="n-4-7" type="noteAnchor">32</ref> dochodzi do czterech kroć sto tysięcy. Po sławnym tryumfie tym męczeńskim wszedł do Japonu jeden mężny rycerz i wielki kapitan Chrystusów, na imię ociec
+          <hi rend="ital">Luigi Sotelo</hi><ref target="n-4-8" type="noteAnchor">33</ref>, zakonu Franciszka świętego ojców bernardynów rodem z miasta, które po hiszpańsku zowią Siwiglia<ref target="n-4-9" type="noteAnchor">34</ref>, poseł teraźniejszej legacyjej<ref target="n-4-10" type="noteAnchor">35</ref>, którą król, na imię
+          <hi rend="ital">Idate Masamune</hi><ref target="n-4-11" type="noteAnchor">36</ref>, królestwa wokseńskiego<ref target="n-4-12" type="noteAnchor">37</ref> wyprawia do ojca świętego papieża Pawła piątego<ref target="n-4-13" type="noteAnchor">38</ref>. Wszedł, mówię, pobudzony nowiną oną męczeńską i zapalony gorącą chęcią do roboty i pracej w tej nowej winnicy Chrystusowej, nie zwierzając się tego nikomu z powinowatych<ref target="n-4-14" type="noteAnchor">39</ref> swoich, którzy domu starożytnością i możnością są z przednich kawallerów<ref target="n-4-15" type="noteAnchor">40</ref> w ojczyźnie jego przerzeczonej<ref target="n-4-16" type="noteAnchor">41</ref>, aby snadź<ref target="n-4-17" type="noteAnchor">42</ref> byli nie
+          <pb n="5" facs="jpg/0025-2023-1183861.jpg"/> rozradzili gościńca<ref target="n-5-1" type="noteAnchor">43</ref> jego i nie rozerwali świątobliwego przedsięwzięcia jego. W roku tedy 1599 wsiadł w okręt z niektóremi zakonnikami swego zakonu, którzy się byli puścili do Filippin i
+          <hi rend="ital">Japonu</hi>. Przeto, przyjachawszy do nowej Hiszpanijej<ref target="n-5-2" type="noteAnchor">44</ref>, zastał pisanie swoich starszych do wicereksa<ref target="n-5-3" type="noteAnchor">45</ref>, aby go zatrzymał, co i uczynił, zabawiając go czytaniem teologijej. Ale nie mając powołania Bożego do onej ziemie, nie mógł się uspokoić, póki nie miał odjazdu dozwolenia od wicereksa, którym na ten czas był
+          <hi rend="ital">Conte di Montere</hi><ref target="n-5-4" type="noteAnchor">46</ref>. Puściwszy się wciąż i żeglując kilka miesięcy, przyciągnęli zdrowi do Filippin, gdzie był gubernatorem don Franciszek Telli<ref target="n-5-5" type="noteAnchor">47</ref>, kawaller habitu Jakuba świętego<ref target="n-5-6" type="noteAnchor">48</ref>. Ten, będąc z tegoż miasta rzeczonego Siwiglia, zatrzymał go, aby się nie puszczał do Japonu, powiadając mu o swej drodze do Hiszpanijej i że go chciał nazad zawieść z sobą. Oprócz tego, iż barzo niebezpieczny był przystęp do Japonu dla niedawno przeszłego sławnego męczeństwa ojców i że jeszcze rzeczy około wiary do tąd nie ukołysały się były, acz już był umarł wielki tyran chrześcijański rzeczony<ref target="n-5-7" type="noteAnchor">49</ref> Tajkosama<ref target="n-5-8" type="noteAnchor">50</ref>. Dogadzając perswazyjej gubernatorowej, zatrzymać się musiał, czas on trawiąc na nauce i posłudze duchownej Japończyków, którzy tam przyjeżdżali dla kupiectwa, którym z pomocą gubernatorową zbudował i kościół i jedno miejsce, kędy się schadzali osobnie od narodów inszych. Tenże gubernator dał władzą ojcu Sotellowi, aby wszytkie sprawy i ekspedycyje z naw<ref target="n-5-9" type="noteAnchor">51</ref> japońskich szły przez ręce jego, czym samym on naród tak sobie przychylnym uczynił barzo, iż też, wracając się do Japonu, donosiło się to do uszu imperatorowych i wielkich panów japońskich one uszanowania i ludzkość z przychylnością jego. W tym czasie umarł on, gubernator Franciszek Telo 15 maja. Nastąpił na miejsce jego Piotr di Acugnia<ref target="n-5-10" type="noteAnchor">52</ref> kawaller świętego Jana<ref target="n-5-11" type="noteAnchor">53</ref>, 20 czerwca. Zaczym też ociec puścił się do Japonu. Dowiedziawszy się sekretarz impera-
+          <pb n="6" facs="jpg/0026-2023-1183862.jpg"/>torów i inszy pokojowi cesarscy o jego przyjeździe, odnieśli to do majestatu cesarskiego, któremu wdzięczna była ta nowina i przyjazd, iż przerzeczony ociec przyjachał z poselstwem od gubernatora di Manila<ref target="n-6-1" type="noteAnchor">54</ref>. A przyjąwszy go, z gromadną assystencyją wielkich panów i okazowaniem swojej wielmożności, rozkazał powiedzieć przez swego sekretarza, że barzo wdzięcznie przyjmował chęci i usługi jego, które wyrządzał hołdownikom<ref target="n-6-2" type="noteAnchor">55</ref> państwa japońskiego, ofiarując mu szeroce wszytkie potrzeby i dając wszelakie dostatki z pysznym<ref target="n-6-3" type="noteAnchor">56</ref> wychowaniem. Aczkolwiek na początku był naśmiewany i wzgardzony dla ubogiego odzienia tak, iż dziecka i człowiek pospolity za nimi kamieńmi ciskali, drudzy błotem pluskali. Jednak, gdy począł mówić językiem japońskim, co było w mniejszym czasie niż we czterech miesiącach – czemu się ma słusznie i nie leda jako każdy dziwować, dla wielkiej trudności i różności słów, które ma ten język, odmiany mając częste względem czasów i osób, i materyjej, które się traktują – nie tylko począł rozmawiać z gminem tym pospolitym o wierze naszej świętej, ale z królmi i z pany, którzy będąc skłonni do nauk około natury: astrologijej, arytmetyki, matematyki i do filozofijej, naturalnej i moralnej, która się przyrodzenia i dobrych obyczajów tyka, około której doskonałej umiejętności dość nie mogą dla błędu <hi rend="ital">
+                        <foreign xml:lang="la">in principiis</foreign></hi><ref target="n-6-4" type="noteAnchor">57</ref>, abo w początkach rzeczy poznawając prawdzie<ref target="n-6-5" type="noteAnchor">58</ref>, ale przyczyny pojąć nie mogąc, które ociec przerzeczony, ukazując demonstracyjami jasnemi, przywodził ich do tego, iż wyznawali, że ten świat i wszytkie na nim rzeczy widome są stworzone, nie są wieczne. Bedąc tak ukontentowani barzo, że też głosem mówili, iż pokora i ubóstwo ojców bernardynów było płaszczem wielkich cnót i umiejętności, które jako złoto, ubóstwem nakrywając noszą. Nabywszy takiego mniemania dobrego o sobie i przyjaźnią niejako związawszy się z nimi, przystępował ociec do wykładu wielu rzeczy
+          <pb n="7" facs="jpg/0027-2023-1183863.jpg"/> do   wiary należących, tykając nieśmiertelności dusz ludzkich przestępstwa człowieka najpierwszego wcielenia i odkupienia
+          <hi rend="ital">Jezusa</hi> naszego oświadczając im, iż chodził po świecie, jako wielki mistrz nauki Ewanjeliej świętej, nauczając drogi zbawienia niewiedzących i wzgardy tych rzeczy doczesnych przemijających. Niesłychane zadziwienie w myślach ich sprawowały te słowa około tajemnic wielkich niebieskich tych nigdy niesłychanych, poważając sobie ojca barzo i miłując go tak z stanu szlachetnego osoby, jako i z gminu pospolitego ludzie, starając się każdy z osobna zjednać sobie łaskę u niego. Za czym tak uszanowany i umiłowany od wszytkich nie tylko miał od nich potrzeby do żywności dziennej, ale też nosili do niego jałmużny znaczne na budowanie kościołów i konwentów<ref target="n-7-1" type="noteAnchor">59</ref>. W czterech miastach przedniejszych, które nagłówniejsze są u tamtych narodów, w Meaku<ref target="n-7-2" type="noteAnchor">60</ref>, w Fuksynie<ref target="n-7-3" type="noteAnchor">61</ref>, w Wosaku<ref target="n-7-4" type="noteAnchor">62</ref> i w Sakaiu<ref target="n-7-5" type="noteAnchor">63</ref> postawił cztery konwenty, w których z pilnością nauczają języka i obyczajów japońskiego narodu zakonników, którzy każdego roku przychodzili do onych królestw. I widząc, iż mała była liczba robotników przychodnich na tak wielkie żniwo<ref target="n-7-6" type="noteAnchor">64</ref>, począł mieszać pospołu i syny chrześcijan nowych, ucząc ich nauk potrzebnych na zbawienie błędów i na przepowiadanie katechizmu ludziom niewiernym. Przełożył tenże katechizm w język japoński i przyłożywszy wiele racji i posiłków do materyjej należących, która się traktuje<ref target="n-7-7" type="noteAnchor">65</ref>. A mianowicie o początku, rozmnożeniu i o społeczności wiernych, i o powadze Kościoła świętego, i o głowie namiestnika Chrystusowego rzymskiego biskupa, przepowiadając jaśnie, podawając onym narodom, czego się przedtem żaden z Europy nigdy nie ważył. A jako porządnie spisany i pięknie ułożony katechizm, niemniej moc i potężność wywodów rozumnych była wielka: niewiele takich było, którzy służąc, nie przystawali
+          <pb n="8" facs="jpg/0028-2023-1183864.jpg"/> do prawdy wiary świętej i do zakonu chrześcijańskiego, który za łaską i miłosierdziem Boga naszego rozszedł się po onych insułach<ref target="n-8-1" type="noteAnchor">66</ref> tak skutecznie, iż też ciż, którzy się świeżo chrzcili, kaznodziejami zostawali. Zażywając tychże wywodów, któremi sami byli przekonani, co też na ostatek i płeć białogłowska mężnie czyniła z wielkim rozmnożeniem wiary chrześcijańskiej świętej. Założył też i szpitale na rozmaitych miejscach, w których bracia laicy, nie mogąc kazać, zabawę mają, służąc chorym, zachowując przykazanie, które Pan nasz
+          <hi rend="ital">Jezus Chrystus</hi> zostawił uczniom swoim, gdy ich posyłał na przepowiadanie:
+          <cit type="bible">
+            <q>
+              <foreign xml:lang="la">Evangelisate pauperibus, et curate infirmos, qui apud illos sunt.</foreign>
+            </q><ref target="n-8-2" type="noteAnchor">67</ref>
+          </cit>Stąd też podała się niemała okazyja rozmnażania wiary świętej między onym narodem za zniewoleniem chęci onych ludzi, którzy brali zdrowie na ciele, a potem i na duszy zbawienie przez chrzest święty. I owszem, otworzyły się ojcu Sotelowi stąd szerokie wrota do przyjaźni i społeczności z wielkiemi pany i królmi onego pogaństwa, których przywodził do poznania i wyznawania wspaniałości i prawdy wiary naszej, i przyznania pewnej drogi zbawienia naszego, dowodząc jaśnie racyjami nieprzemożonemi, iż sekty i nauki japońskie na błędzie się sadzą i są własne wynalazki dyjabelskie. A chociaż dla zastarzałości i powagi dawnej bałwochwalskiej i przykowania do grzechów swych opuszczać zaraz wszytkiego nie mogą, nie przeto jednak panowie i królowie onych narodów panujący zabraniają, aby chrześcijanie chwalili prawdziwego Boga, i owszem, niektórzy z nich dopuszczają nawet i namawiają, aby się szerzył głos Ewanjeliej świętej. Z takiego stowarzyszenia ojca tego z przełożonemi narodu walą się wszytkie złe zwyczaje, któremi obrażali Pana Boga i bliźniego swego; na ostatek budowaliby już i kościoły dawno w swoich królestwach, gdyby mogli byli mieć osoby zakonne.
+        </p>
+        <pb n="9" facs="jpg/0029-2023-1183865.jpg"/>
+        <p n="2">Tenże  ociec Sotelo widząc zły jeden zwyczaj pogański, który z dawna panował w Japonie, gdy umierał jaki król abo wielki senator
+          <note type="argument" place="margin">Zwyczaj pogański barzo zły</note>, jego wszyscy kochankowie i przyjaciele przy pogrzebach powinni byli dla starodawnego zwyczaju gołą broń wtopić w piersiach i zabijać się własnemi rękami, powiadając tak sobie: „Ponieważ umiera król, nie jest rzecz przystojna, aby na świecie zostawali ci, których on miłował i w nich się kochał”.
+          <note type="argument" place="margin">Dysputacja z królem.</note> Miał dysputacją z królem z Quinokonu zwanym Assanodaibut<ref target="n-9-1" type="noteAnchor">68</ref> około tej materyjej i tym zwyczaju pogańskim, a widząc się król pokonanym, iż ten by zwyczaj przeciwny wszelkiemu prawu i nieznośny między wszytkiemi narodami i szkodliwy dziedzicom umierającego dla gniewu i kolery<ref target="n-9-2" type="noteAnchor">69</ref>, która go popadła, chciał kazać zabić ojca Sotela, zaniechał jednak tego, wiedząc, jako przyjaźń miał z imperatorem.
+          <note type="argument" place="margin">Medyk roztropny.</note> Nalazł się tam był jeden medyk przy tej dysputacyjej, który spisał wszytkie racyje ojcowe, a mając czas i okazyją na królewski majestat podał je królowi onemu, który przypatrzywszy się dobrze onemu bestialskiemu zwyczajowi, na ostatek powiedział: „Nie jest rzecz słuszna, aby zwyczaj przeciwny rozumowi dla swojej dawności miał być więcej zachowany w Japonie”. I zarazem zakazał edyktem pospolitym pod karaniem ciężkim i czci odsądzeniem potomków i familiej, aby żaden nie śmiał zabijać się, jako pierwej czynili dla śmierci panów swoich. Tym zabronieniem, jako i inszemi rzeczami, w których stawał mężnie przeciwko takiej zwierzchności królewskiej i imperatorskiej, mając sprawiedliwość i prawdę po sobie, nabył ociec Sotelo wielkiego kredytu u wszytkiego dworu cesarskiego tak, iż żaden nie śmie dyszkurować o tych rzeczach, które były w dawnym zwyczaju pod utraceniem żywota. I owszem, sam cesarz, królowie i panowie inszy mieli go stąd w poszanowaniu wielkim, uznawając go być człowiekiem szczerym, umiejętnym i nieustraszonym. Tenże najwyższy imperator, chcąc go wyprawić za swego
+          <pb n="10" facs="jpg/0030-2023-1183866.jpg"/> posła do króla hiszpańskiego dla traktatów o przyjaźń i o spółkowanie narodów z hiszpańskimi japońskich, odradzali mu niektórzy radni panowie, mówiąc, iż nie godziło się kłaść takiej legacyjej na zakonnika tak barzo potrzebnego i podawać go na takie niebezpieczeństwa morskie w tak dalekiej nawigacyjej i ziemskim tak długim gościncu, którym imperator odpowiedział, że Bóg jego wspomoże go, iż przyniesie dobrą i prędką rispostę. Jest w takiej miłości i w takim poważeniu wszytkich stanów ociec przerzeczony, iż też sprawy i zaciągi natrudniejsze jego ręka ugłaszała i uspokajała. A gdy chodził przepowiadając Ewanjelią ś&lt;więtą&gt; po rozmaitych królestwach, był taki konkurs ludzi do niego niesłychany, którzy bieżeli, aby go widzieli i słyszeli dla sławy, którą wielką słynął, tak, iż i sami bońcy<ref target="n-10-1" type="noteAnchor">70</ref> abo kapłani dyjabelscy oglądali się nań i chwalili jego postępek z ludźmi i sposób nawracania.
+          <note type="argument" place="margin">Bońcy chwalą ojca Sotela.</note> I owszem, z nich niektórzy natchnieni od Boga miłego, opuściwszy błędy własne, przyjęli wiarę świętą, a zostawszy uczniami ojca tego, wspomagali go, nauczając wiary poganów i nawodząc ich do łona Kościoła Bożego. Między któremi byli dwa bońcy miani za mistrze i doktory w błędach swoich, którzy byli posłani od rektora akademiej swojej di Koia<ref target="n-10-2" type="noteAnchor">71</ref> na dysputę z jednym chrześcijaninem doskonale wyćwiczonym w świętym katechizmie, który był od nich wyszedł, trzy lata minęły z ich nauki błędnej po wielkich i długich dyszkursach odeszli przekonani, a potym po dni kilku chrzest święty przyjęli.
+          <note type="argument" place="margin">Zły umysł dobrze się obrócił.</note> Którą nowiną gniewem zajuszony rektor chciał zapalić kościół i mieszkanie, gdzie mieszkał ten ociec Sotelo z drugimi zakonnikami i chrześcijanami, i dawszy niemałą summę dwóm łotrom, aby tę jego wolą uczynili, chciał Pan Bóg, który ma opatrzenie koło sług swoich, iż aczkolwiek we dnie położyli byli znak na spalenie kościoła, w nocy nie mogli go znaleźć żadną miarą, chociaż całą noc chodzili, szukając, choć że tam tuż przy onym miej-
+          <pb n="11" facs="jpg/0031-2023-1183867.jpg"/>scu byli. Gdy tedy dzień nadchodził, a oni baczyli się być przed kościołem samym, uznali, iż Pan Bóg zasłonił im był oczy, a żałując przedsięwzięcia złego, weszli do kościoła, a słysząc niektóre słowa w kazaniu, przystali do wiary chrześcijańskiej.
+        </p>
+        <p n="3"> Wiele inszych przeszladowania oprócz tych przeszedł ociec Sotelo, wiele razów kryjąc się po górach, dotąd, aż mu Pan Bóg miły dał łaskę do ich uspokojenia, który, wracając się do swej roboty zaczętej nawracania poganów i zatrzymania wiernych, tak przytomnością, jako i listami, dawał wielką pociechę i ochłodę duchowną onemu chrześcijaństwu, które dźwigał prawie swemi ramionami. A jako wszytko wypisować rzeczby była długa i czytelnikowi przykra, tak namienić tę trochę miałem intencyją, krótko podając finał czytelnikowi i oznajmując mu początek i postępek tej Legacyjej z Japonu, którą nawielebniejszy ociec brat Luigi Sotelo przyniósł do Ojca Świętego Pawła Piątego, imieniem króla wokseńskiego. Inszego końca nie mając, jedno przed oczy kładąc chwałę miłego Boga, stolice świętej apostoliskiej cześć, pociechę powszechnego Kościoła Bożego i wszytkiego wobec chrześcijaństwa.
+        </p>
+        <pb n="12" facs="jpg/0032-2023-1183868.jpg"/>
+        </div>
+        <div type="1-1">
+        <head>Księga pierwsza.</head>
+        <head>O wielkości i obfitości królestwa wokseńskiego.</head>
+        <head type="sub">ROZDZIAŁ I.</head>
+        <p n="1">Królestwo wokseńskie<ref target="n-12-1" type="noteAnchor">1</ref>, jedno z królestw sześcidźiesiąt i sześci w Japonie, nie tylko jest bez porównania żadnego więtsze nad wszytkie, ale też trzyma więcej niż czwartą część wyspu naprzedniejszego, który oni między sobą zowią Nifon<ref target="n-12-2" type="noteAnchor">2</ref>, a naszy Japonem. To królestwo leży na końcu tej insuły ku wschodowi północnemu. Początek tego królestwa jest pod trzydziestym siódmym graduszem do trzydziestego ósmego, a ciągnie wzdłuż od zachodu aż do wschodu słońca, mając tego przeciągu do czterdziestu trzech graduszów, długość jego jest na cztery sta mil, szerokość nadalej ma trzy sta. Z tej strony od Suru<ref target="n-12-3" type="noteAnchor">3</ref> wszytka ziema mierne ma powietrze jako owa około Kasztylijej dawnej w Hiszpanijej. Jednak dla morza od wschodu zima bywa barzo ostra tak, iż na wielu miejscach w miastach, w miasteczkach większych i mniejszych, bywa ziemia odziana śniegiem, począwszy od listopada aż do samego kwietnia, nie mogąc nic widzieć inszego przed śniegiem. To jednak ma podobnego z ciepłym Japonem, iż się także ze czterech części roku równie weseli, co się o wiośnie, latu, jesieni i zimie rozumie. Kraina barzo zdrowa i wdzięczna, i po więtszej części równa, rodzajna i żyzna w zboża, w ryże, jęczmiony i prosa. Ma też własne owoce co i włoska ziemia, i niektóre osobliwe, zdrowe i barzo smaczne, jakich w Europie nie najdzie. Ma do tego wielką wielkość dobytków domowych i
+          <pb n="13" facs="jpg/0033-2023-1183869.jpg"/> dzikich, wołów, jeleni, wieprzów chowanych i dzikich, jako i inszych rodzajów zwierząt rozmaity, a nade wszytko koni dostatek ma wielki tak, iż z tego królestwa wywodzą ich do inszych królestw, w których drogo je barzo płacą, iż dzielniejsze są i urodziwsze, niźli w inszych krainach japońskich. Tam jest rozmaity rodzaj wielki ptastwa, bażantów, kurów, kuropatw, grzywaczów, synogarlic, dzikich gęsi, które do tego królestwa ku zimowaniu zlatają się. Sokołów przednie dobrych, które do inszych królestw japońskich z tego królestwa drogo dostawają, i inszych wiele niewyliczonych rodzajów ptastwa. Dla pospolitego wyżywienia w tym królestwie tanie barzo są wszytkie rzeczy, dla wielkiej w tym królestwie niepodobnej żyzności. Ma tamta kraina barzo dobre ryby w nieprzebranym dostatku i tak wiele ich rodzajów, jakie się tu u nas najdują. Ma wiele rzek w sobie, a osobliwie dwie barzo szerokie, w których ustawicznie łowi się nieprzebrana wielkość pstrągów i łososi. Najduje się też niejaka ryba, którą oni zowią <hi rend="ital">
+                        <foreign xml:lang="jap">cucuau</foreign>
+                    </hi><ref target="n-13-4" type="noteAnchor">4</ref>, w wielkim u nich kochaniu, że jest i zdrowa, i barzo smaczna. Ma w sobie to królestwo wiele gór abo kruszców złotych i srebrnych, i rzeki na ostatek rodzą złoto, przepłokiwając pewną ziemię, którą woda muli, odłączają jako ziarnka gorczyczne szczere złoto. Także są kruszce miedziane, ołowne i żelazne nieprzebrane, w których górnicy ustawicznie robią z wielką pilnością, abowiem stąd na króla idą wielkie myta. Ma góry pełne drzewa rozmaitego, pospolitego i drogiego, i z tego królestwa do drugich królestw wielkość wielką drzewa wywożą na budowanie. Jest siarka dla prochu, rozmaite oleju rodzaje, papier z rozmaitych materyj, płótna chędogie rozmaite. Wina dobre pospolicie z ryżu czynione. A nade wszytko ma kryształowe góry, materyja nader przeźrzoczysta i mocna, z której mogą być robione całe filary. To królestwo dzieli się na wiele prowincyj, a każda
+          <pb n="14" facs="jpg/0034-2023-1183870.jpg"/>z tych prowincyj jest nasiadła, pełna miast wielkich, zamków, wsi, osiadłości. Wszędy dostatek wielki oraczów, ziemia rodzajna, nie jedno na równi, ale i po górach. W każdym miejscu tych prowincyj mieszka tak wiele ludzi, iż zda się niepodobna, aby ich miał zliczyć. Z natury wszytek naród ten dowcipny, szczery i prosto idzie z temi, którzy są takiejże natury, przeciwnym zaś sposobem jest chytry i niewyrozumiały tym, których poznawają złość abo obłudę. Naród zbrojny, mocny i potężny do boju, mający wszytkie instrumenta wojenne, mianowicie ogniste, jakie są półhaki, muszkiety i działa burzące. I ta jest przyczyna, iż nie mają afektu do nauk wyzwolonych, aczkolwiek natury sposobnej do wszytkiego i skłonnej do ludzkości i nabożeństwa są nader wyśmienici, a nade wszytko ceremonijaci.
+        </p>
+        </div>
+<div type="1-2"> 
+<pb n="14" facs="jpg/0034-2023-1183870.jpg"/>
+        <head>O zacności i starożytności domu i familijej króla wokseńskiego.</head>
+        <head type="sub">ROZDZIAŁ II.</head>
+        <p n="1">To królestwo wokseńskie (na on czas gdy Japon był rządzony <hi rend="ital">absollute</hi> od Dairów<ref target="n-14-1" type="noteAnchor">1</ref>, którzy są i byli z dawna japońscy królowie przyrodzeni i starożytni) dla swojej wielkości z dawna było dano do rządzenia jednemu wicereksowi<ref target="n-14-2" type="noteAnchor">2</ref> abo raczej wielom rozdzielonym po różnych prowincjach; wybiwszy się Dairowi z rządu i rozkazowania doczesnego, wicereksowie i kapitani walni wojsk wokseńskich przywłaszczyli sobie one królestwa i mocą wojenną uczynili się pany i tyrany onego państwa. Jeden z tych wicereks, który najwyższy rząd miał w królestwie wokseńskim, imieniem Findefira<ref target="n-14-3" type="noteAnchor">3</ref>, którego familia i przodkowie pochodzili od Kungów<ref target="n-14-4" type="noteAnchor">4</ref>, którzy Kungowie idą ze krwie i familijej Dairów, i owszem pocho-
+        <pb n="15" facs="jpg/0035-2023-1183871.jpg"/>dzili między nimi od najprzedniejszego, którego dom zwano Konojendono<ref target="n-15-5" type="noteAnchor">5</ref>, który miał to prawo, gdyby Dairo schodził bez potomstwa, miał następować po nim na państwo japońskie. Ten Findofira rebelizował<ref target="n-15-6" type="noteAnchor">6</ref> też pod ten czas, kiedy i drudzy rebelizowali, czemu już będzie pięć set lat i sześćdziesiąt. A nie kontentując się  panowaniem tylko onych prowincyj<ref target="n-15-7" type="noteAnchor">7</ref>, które trzymał pod władzą swoją, podniósł wojnę przeciwko onym drugim wicereksom rebelizantom, gromiąc ich i odbierając państwa, i tak w krótkim czasie uczynił się panem wszytkiego królestwa wokseńskiego, panując jako król, zwierzchności żadnej nie dając nikomu nad sobą. Minęły 22 lat jako Findefiro rządził spokojnie swoje już królestwo, kiedy pryncypała onej rebelijej wojsko jorytomowo<ref target="n-15-8" type="noteAnchor">8</ref> zniosło i zabiło. Ten zaraz oddał posłuszeństwo Dairowi (jako z dawna najwyższemu monarsze japońskiemu), któremu zdała się rzecz nie można podbić i do posłuszeństwa przymusić drugie wicerekse, którzy już czas niemały panowali jako właśni królowie, nie mając z to ani wojska, ani siły na ich dzierżawę, na wodze i podbijanie pod moc państwa swego. Za czym dał prawo i tytuł imperatorski Jerytomowi (na ono wydarte państwo) z tą kondycyją<ref target="n-15-9" type="noteAnchor">9</ref>, aby znosił one tyrany drugie, zostawując tylko sobie zwierzchność państwa przyrodzonego, żeby zawsze zostawał jako najwyższy monarcha i głowa wszytkiego stanu duchownego.<ref target="n-15-10" type="noteAnchor">10</ref>, zostawszy takim nowym imperatorem, miał drugiego brata młodszego, którego zwano Uksiuacandono<ref target="n-15-11" type="noteAnchor">11</ref>; tego wziął był za syna Findefira król wokseński przed tym, niźli mu się dzieci porodziły. Przetoż posłyszawszy Findefira o szczęśliwym postępku jerytomowym, wysłał posły swe do niego, aby mu oznajmili, iż z tego szczęścia jego miał wesele<ref target="n-15-12" type="noteAnchor">12</ref> wielkie i ofiarowali mu przy tym jego chęć sąsiedzką. Miał po tym Findefira syny, a przyszedszy do wielkiej starości, bacząc iż mu już i sił i ducha nie stawało, zaleciwszy jako mógł najpilniej synom 
+        <pb n="16" facs="jpg/0036-2023-1183872.jpg"/> przyrodzonym własnym onego przysposobionego Uksiwakandono, aby z nim dobrą przyjaźń wiedli i za jednego brata ze krwie własnej między sobą mieli, skończył tak żywot swój. Oni dwa bracia rodzeni na początku chowali się barzo dobrze z onym przysposobionym, lecz po tym zabili go, oblegszy go w jednym mieście, gdzie było wojsko wielkie. Dowiedziawszy się o śmierci brata swego Jorytomo imperator, schował to do serca swego i puściwszy to imo<ref target="n-16-13" type="noteAnchor">13</ref> się czas niemały bez pomsty, na ostatek<ref target="n-16-14" type="noteAnchor">14</ref> gdy się mniej tego spodziewali, obskoczywszy ich z nieobaczku<ref target="n-16-15" type="noteAnchor">15</ref> pod płaszczem przyjacielskiej rozmowy, obudwu zdradliwie zamordowano. W krótkim czasie imperator Jorytomo umarł. A wiedząc to w Meaku<ref target="n-16-16" type="noteAnchor">16</ref> (najprzedniejszym wszytkiego Japonu mieście) głowa najprzedniejsza Kungów, imieniem Konojendono, jako jego bracia byli pogubieni, aby ich familija nie traciła zwierzchności tak możnego królestwa, uprosił u Daira, aby intratę<ref target="n-16-17" type="noteAnchor">17</ref> kościelną, którą trzymał w onym królestwie i poddanych, którym rozkazował, darował bratu jego wtóremu, jako z tejże familijej swojej i temuż swojemu domowi, którego zwano <foreign xml:lang="jp">Iamacangue Ciuscio</foreign>;<ref target="n-16-18" type="noteAnchor">18</ref>. Ten zarazem odjachał do przerzeczonego królestwa wokseńskiego. A wziąwszy possessyją<ref target="n-16-19" type="noteAnchor">19</ref> onych poddanych, ziemie i dochodów, zaraz uczynił sobie chętnych wiele gubernatorów i kapitanów, którym jego stryj Findefira uczynił był wielkie dobrodziejstwa i posadził na dostojeństwach, od których widząc się być wdzięcznie przyjętym i z wielką ich wszytkich miłością przyciągnął z wojskiem i tak powolej odebrał wietszą część królestwa. Po śmierci zaś tego, syn jego skończył i posiadł całe królestwo, i trzymał spokojnie; i od tegoż czasu aż do teraźniejszych dni trzymali to królestwo ciż panowie z tejże familijej. Z tą jednak różnością, iż teraz skończą się trzysta lat, jako był jeden z nich rozdzielił to państwo i utracił za tym część jego niemałą. Czym zagniewany syn jego, a nikczemnością obrażony ojca swego, dobiwszy się 
+        <pb n="17" facs="jpg/0037-2023-1183873.jpg"/> królestwa, wstydził się być ojca takiego synem. Przeto odmienił nazwisko domu swego i herb dawny przodków swoich. A wziąwszy nowe nazwisko od mężnych i wielmożnych spraw swoich, przezwał się tym imieniem Idate<ref target="n-17-20" type="noteAnchor">20</ref>, co znaczy szczodrobliwość i potężność, i przyczynił drugi herb nowy swój własny, różny od tamtego dawnego. Po wszytkie odmiany i wojny japońskie zawsze zostawali ci panowie z tej familijej przy tym królestwie, iż musiano zawsze na nich respektować i nie lada jako oglądać; nie tylko dla starodawnej zacności, ale też iż zawsze były osoby same przez się waleczne i barzo potężne. A ledwie by mógł przez te wszytkie czasy jednego naleść z nich, o którym by nie miały pisać historyje, wspominając wielmożne sprawy ich i godne, aby się tu wniosły. Ale nie chcąc odstąpić od obiecanej krótkości mojej, przystąpię do króla, który dziś panuje.</p>
+      </div>
+      <div type="1-3">       
+      <pb n="17" facs="jpg/0037-2023-1183873.jpg"/>
+        <head>O   dzielności i zacności, i możności Idate Mazamune króla wokseńskiego.</head>
+        <head type="sub">ROZDZIAŁ III.</head>
+        <p n="1"> Król Idate Mazamune<ref target="n-17-1" type="noteAnchor">1</ref> jest, w czterdziestym ósmym abo dziewiątym roku, jeden z przednich<ref target="n-17-2" type="noteAnchor">2</ref>  królów, którzy ze krwi jego byli w królestwie wokseńskim<ref target="n-17-3" type="noteAnchor">3</ref>; abo lepiej jeszcze rzekłszy, ze wszytkich monarchów, we wszytkim Japonie<ref target="n-17-4" type="noteAnchor">4</ref> naprzedniejszy, tak w dowcipie i rzeczach wojennych, w cnocie, w naukach, sektach, których się uczą i któremi żyją w Japonie; jako i w sile przyrodzonej i potężności. Na wojnach, które miewał i miewa, nigdy niezwyciężony ani pojmany, ale zawsze zwyciężający. W szturmach i utarczkach<ref target="n-17-5" type="noteAnchor">5</ref> zawsze sam napierwszy: szaty przemieniając, i bojując nie inaczej jeno jako pojedynkowy żołnierz. Na harcach<ref target="n-17-6" type="noteAnchor">6</ref>, przednim harcownikom głowy zdejmując, rozda-
+        <pb n="18" facs="jpg/0038-2023-1183874.jpg"/>wa niektórym swym żołnierzom, aby je za upominki mieli i przez nie u króla, co żywnie chcieli, uprosili. Co sprawuje wielka miłość i serce wielkie w żołnierzach, a gdy się najdzie w Japonie szerokim naprzedniejszy na wojnie i dzielniejszy w sprawie, mają go za naprzedniejszego bojownika. Do tego szczodrobliwości jest wielkiej. Buduje pałace wspaniałe, królewskie, zachowując pompę i majestat królewski. Chowa więtszą czeladź<ref target="n-18-7" type="noteAnchor">7</ref> i dwór niżeli dwór cesarski, spendując więcej niż majestat cesarza japońskiego spenduje. Gdy do Meaku<ref target="n-18-8" type="noteAnchor">8</ref> przyjedzie, mają więtsze wesele i radość niż gdyby tam własny cesarz przyjachał. Wszyscy kupcy i officyjaliste<ref target="n-18-9" type="noteAnchor">9</ref> radują się. Abowiem we dwu abo we czterech miesiącach, gdy król wokseński zatrzyma się na dworze cesarskim, mają więtszy zysk przez ten czas, niż przez wszytek rok, który zostaje; tak względem ludzi gromady wielkiej, która z nim przyjeżdża, jako i dla senatorów wielkich i królów, który przyjeżdżają nawiedzać, i ucieszyć się z jego obecności; nie mniej dla wielkich wydatków i nadzwyczaj spezy<ref target="n-18-10" type="noteAnchor">10</ref> na ich bankietowanie i uszanowanie. Ma ośmdziesiąt tysięcy ludzi do boju ustawicznie pieniężnych, wyśmienitych i insze<ref target="n-18-11" type="noteAnchor">11</ref> ludzie posiłkowne<ref target="n-18-12" type="noteAnchor">12</ref>, którzy zawsze są gotowi na rozmaite przypadki. A oprócz tych, może w pole wywieść drugie sto tysięcy na więtszą potrzebę. Abowiem w tamtym królestwie, począwszy od przednich aż do samego chłopstwa, wszyscy używają broni, koni, mając to wszytko pogotowiu na rozmaite przypadki w wielkim ochędostwie<ref target="n-18-13" type="noteAnchor">13</ref>. Oprócz tego królestwa, które ma, cesarze japońscy, ukazując chęć i wdzięczność z dawna ku tym królom wokseńskim, z łaski swej, odjąwszy sobie, nadali im ziemice, intraty<ref target="n-18-14" type="noteAnchor">14</ref> i szlachtę w inszych królestwach japońskich; jakoż już z dawna trzymają to ci, którzy przychodzą z królestwa wokseńskiego, które jest nadalsze od Japonu aż do Meaku, gdzie jest stolica Dairowa<ref target="n-18-15" type="noteAnchor">15</ref>. A to dla tego, aby król wokseński, mając ustawicznie około siebie kupę ludzi, 
+        <pb n="19" facs="jpg/0039-2023-1183875.jpg"/> która mu assystencyją czyni<ref target="n-19-16" type="noteAnchor">16</ref>, mógł wszytek dostatek mieć intraty, nie czekając z swego królestwa.</p>
+<p n="2">Ten imperator abo cesarz, co teraz panuje, nie wszedłby był na państwo, gdyby ten król Idate Mazamune nie ratował go i nie obronił z tyłu, stawiwszy się z wojskiem swym przeciwko dwiema królom barzo potężnym <hi rend="ital">Canguacatzu</hi> króla <hi rend="ital">di Zinano</hi><ref target="n-19-17" type="noteAnchor">17</ref>, i <hi rend="ital">Catzu Yafataquendono</hi> króla <hi rend="ital">di Saraque</hi><ref target="n-19-18" type="noteAnchor">18</ref>, i przeciwko inszym książętom confederowanym<ref target="n-19-19" type="noteAnchor">19</ref> z temi królami, których wszytkich poraził, pogromił i rozsypał przerzeczony<ref target="n-19-20" type="noteAnchor">20</ref> król we trzech potyczkach, które z nimi wielkie miał; którym pobrał miasta, zamki, fortece, ścisnąwszy ich tak, iż nie mogli przyjść na posiłek inszym nieprzyjaciołom imperatorowym, w tył wojskom cesarskim, gdy się puścił na pogromienie, mało nie wszytkich królów zachodnich, którzy ciągnęli z wojski przeciwko niemu. Za który fawor<ref target="n-19-21" type="noteAnchor">21</ref> i łaskę zostając, wielce powinien imperator temu królowi nie tylko respekt więtszy i uszanowanie mu wyrządza celniejsze niż drugim, ale też i osobliwą miłość i przyjaźń zawartą z nim wiedzie, naradzając się z nim o rzeczach swych i zostawując mu w gwardiej królestwa i państwa swoje, jako i swych synów, kiedy objeżdża z dworem z Meaku do Zorungi<ref target="n-19-22" type="noteAnchor">22</ref>. A jako roztropny cesarz, upatrując, iż po jego śmierci ten król, który ma więtszą potężność i wojska, może zamyślać i zamyśla wniść na państwo japońskie; przerzeczony też Idate Mazamune król wokseński uczynił to z nim, co przeszły imperator Taikosama<ref target="n-19-23" type="noteAnchor">23</ref> uczynił z tym, iż go uczynił za żywota zięciem syna swego, aby jego dom i familia była przy państwie zachowana i zawsze kwitnęła, tak, iż ten teraźniejszy imperator, nazwany imieniem Minamotono Ikas<ref target="n-19-24" type="noteAnchor">24</ref>, ożenił syna swego i córkę z synem i córką króla wokseńskiego, gruntując tym małżeństwem swoje rzeczy, a poglądając na one, które mogą przypaść po swej śmierci.</p>
+<p n="3">Jako ojciec Luigi Sotelo<ref target="n-19-25" type="noteAnchor">25</ref> posłyszał te grandece o tym wiel-
+<pb n="20" facs="jpg/0040-2023-1183876.jpg"/>kim i potężnym królu, i niektóre sam obaczył oczyma swemi, one jego pałace, które są wspanialsze i bogatsze nad insze wszytkie w Meaku i w Fuxinie<ref target="n-20-26" type="noteAnchor">26</ref>, pragnął wielce dostać znajomości i rozmowy z tym przemożnym królem. A chociaż miał już przyjaźń z imperatorem i z inszemi królmi i senatorami, pod których skrzydłem zbudował był kilka klasztorów i kościołów, zdało mu się jednak, iż póki by nie wziął znajomości i przyjaźni z tym książęciem wielkim, nie puściłoby się tak bujno chrześcijaństwo, o którego rozmnożeniu ustawicznie myślił. A chociaż się o tę znajomość starał przez całe siedm lat, jednak te dwoje ekstrema, wielmożność i bogactwa tego króla, podłość i ubóstwo tego ojca, były tak różne i dalekie od siebie, że nie mógł do tego przyjść żadną miarą. Przeto zawsze go oddawał<ref target="n-20-27" type="noteAnchor">27</ref> i ustawicznie zań prosił Pana Boga, aż na koniec upodobało się miłosierdziu Boskiemu ułatwić tę przyjaźń tym śrzodkiem i tym, którym powiem sposobem.
+        </p>
+</div>
+      <div type="1-4">
+                <pb n="20" facs="jpg/0040-2023-1183876.jpg"/>
+        <head>Jako ociec Luigi Sotelo<ref target="n-20-1" type="noteAnchor">1</ref>dostał przyjaźni i rozmowy z królem wokseńskim<ref target="n-20-2" type="noteAnchor">2</ref> na dworze w Jendo<ref target="n-20-3" type="noteAnchor">3</ref> u syna cesarskiego.</head>
+        <head type="sub">ROZDZIAŁ IV.</head>
+        <p n="1">Będąc Idate Mazamune<ref target="n-20-4" type="noteAnchor">4</ref> król wokseński na dworze książęcym syna imperatotowego brata zięcia swego, przejeżdżając się i uciechę sobie czyniąc po mieście rzeczonym Jendo, barzo ludnym i ślicznym, ktore głową jest ośmi królestw, które zową Quanto<ref target="n-20-5" type="noteAnchor">5</ref>, do ktorego nigdy nie weszli żadni inszy katoliccy kapłani, oprócz braciej świętego Franciszka bernardynów zakonu: gdzie mieli naprzedniejszy swój kościół i klasztor, i gdzie
+        <pb n="21" facs="jpg/0041-2023-1183877.jpg"/> mieszkali z pozwoleniem jawnym imperatotowym i książęcia syna jego, i na którym miejscu już była wielkość chrześciaństwa. W tym czasie wpadła w ciężką chorobę jedna konkubina przerzeczonego króla, w której dziwnie barzo się kochał, iż była z obcego narodu. A usłyszawszy król Mazamune (ratując jej przedtym lekarstwy zdrowie od medyków na dworze przedniejszych, które jej nic a nic nie pomagały), iż ojcowie świętego Franciszka mieli przy jednym kościele swym niejaki szpital i w nim jednego zakonnika laika, który leczył wszytkie rodzaje chorób i wszytkie uzdrawiał chore, którzy jeno do niego chodzili. A osobliwie iż żona starszego podskarbiego<ref target="n-20-6" type="noteAnchor">6</ref> jego od niego była uzdrowiona, którego zwano bratem Piotrem z Burguillu, zakonnik barzo przykładny i wielki sługa Boży. Posłał zarazem po ojca Sotela, aby jako starszy i kommissarz  swego zakonu rozkazał temu bratu laikowi, żeby szedł i zleczył onę chorą białągłowę. Szedł przerzeczony<ref target="n-20-7" type="noteAnchor">7</ref>  zakonnik, a uzdrawiając onę chorą, przybył Zbawiciel nasz zarazem, który ją uleczył. Z czego uweselony król barzo stawił się niewymownie chętnym z tego ojcu Sotelowi, któremu zaraz posłał wiele sztuk złota i srebra, które rózgami złotymi zową, sukna i sztuk jedwabiu. Lecz ociec, nie chcąc onych darów, powiedział, iż ludzie zakonni nie szukają nic swego, jedno miłości Boga miłego, a iż niedopuszcza tego zakon i religia, aby się brać miało złoto abo srebro abo rzecz jaka światowa, nie mając przedsięwzięcia inszego jedno naukę drogi nieomylnej do zbawienia wiecznego tych, którzy jej niewiedzą. Na którą odpowiedź, zdziwiwszy się barzo, król rzekł, iż chciał widzieć ojca Sotela i tego zakonnika lekarza. Którzy na rozkazanie jego przyszli, niosąc zsobą wedle zwyczaju podarek na znak uczciwości i poważenia osoby królewskiej: pięćdziesiąt chleba, trzysta świeczek z wosku jarzęcego, trzy funty gwoździków<ref target="n-21-9" type="noteAnchor">9</ref>  i drugie trzy pieprzu. Król przyjął on podarek na sali króle-
+        <pb n="22" facs="jpg/0042-2023-1183878.jpg"/>wskiej z wielkim majestatem i assystencyją. A rad temu będąc, iż ociec Sotelo umiał język japoński, pytał go o rozmaite rzeczy, tak o naszej krainie jako i o naszym zakonie, i o religiej. A dziwując się nad miarę onym odpowiedziom, które czynił ociec, kazał dać na stół kollacyją i sam król swym królewskim zwyczajem pił do niego.<ref target="n-22-10" type="noteAnchor">10</ref> Co jest znakiem wielkiej przyjaźni – a snadź taka rzecz jako największa może być – której osobliwie królowie i książęta zwykli między sobą z równymi sobie zażywać. Już król był na samym wyjeździe do królestwa swego, kiedy go ociec prosił o licencyją, aby mógł do jego królestwa wniść i nawiedzić osobę królewską jego. Tą chęcią jego uweselony król rzekł, iż może bezpiecznie przyjachać i że go tam będzie rad widział. A na rozstaniu rozkazał król jednemu z swoich wielkich panów, aby go prowadził wychodzącego z pałacu z wielką kupą dworzan i szlachty dworu swego</p>
+</div>
+      <div type="1-5">
+                <pb n="22" facs="jpg/0042-2023-1183878.jpg"/>
+        <head>Jako ociec Sotelo był przyjęty w królestwie wokseńskim od króla i zaproszony do pałacu na obiad.</head>
+        <head type="sub">ROZDZIAŁ V.</head>
+        <p n="1">Gdy już wyjachał król Idate Mazamune do królestwa wokseńskiego, ociec Sotelo rozrządziwszy rzeczy onego chrześcijaństwa, jako najlepiej rozumiał, i zostawiwszy tam dwu kapłanów w klasztorze, udał się w drogę za królem, aby go nawiedził. Lecz pierwej idąc chrzcił po rozmaitych królestwach i stronach<ref target="n-22-11" type="noteAnchor">11</ref>, gdzie się najdowali już chrześcijanie, dla spowiedzi i nauki ich w wierze świętej, i chrzcząc drugich<ref target="n-22-12" type="noteAnchor">12</ref> z żonami, z dziećmi i wielu inszych przywodząc do poznania prawdziwego Bo-
+        <pb n="23" facs="jpg/0043-2023-1183879.jpg"/>ga, nikogo nie chcąc opuścić zbawiennym ratunkiem. Przyszedszy ociec Sotelo do przerzeczonego królestwa, gdzie był pierwszym apostołem, kędy nigdy nie postała zaniesiona Ewanjeljia święta, aż Bóg z wielkiego miłosierdzia swego, chciał tam wprowadzić przerzeczonego ojca, natychmiast skoro król się dowiedział o przyszciu ojcowskim, rozkazał, aby był uprzątniony jeden kościoł bońcow, abo kapłanów bałwochwalskich, na przyjęcie jego jako zakonnego, rozkazując nad to wielom dozorcom swym, aby ten kościół przyozdobili i opatrzyli wszytkiemi potrzebami i wielkim dostatkiem. Gotował się na ten czas król w drogę i prawie wsiadał<ref target="n-23-13" type="noteAnchor">13</ref> na pewne  myślistwo, lecz pierwej niż odjachał, rozkazał, aby jego senatorowie<ref target="n-23-14" type="noteAnchor">14</ref>  radzi mu byli i aby go na każdy dzień częstowali jeden po drugim, dotąd ażby Jego Królewska Mość wrócił się, jakoż to czynili z wielkim weselem i z niemniejszym dostatkiem. Wróciwszy się król z łowu, posłał zaraz nawiedzając przerzeczonego ojca i zapraszając go do stołu swego. Drugiego dnia przyszedł na pałac, z sobą przyniózszy trzy śklenice<ref target="n-23-15" type="noteAnchor">15</ref> i kilka chleba smacznego. Z czego król kontentował się i ukazał się być wdzięcznym swego nawiedzenia i onego trudu, który w drodze podjął. Widząc król, iż ociec był skromny i ostrożny w jedzeniu i że nie jadł przedniejszych potraw królewskich, pragnąc wiedzieć przyczynę, rzekł do ojca Sotela, czemu ryby jadł, a mięsa nie tknął się. Na co odpowiadaiąc z wielką pokorą i skromnością, wziął okazyją mowy o narodzeniu Zbawiciela naszego i o poście uprzedzającym to wielkie chrześcijańskie święto piąciądziesiąt dni, które zowią Adwentem zwyczajnym swojej religiej na wdzięczność i pamiątkę nieskończonego miłosierdzia i szczodrobliwości Bożej, którą Bóg uczynił potomstwu ojca Adama, wcieliwszy syna swego własnego dla naszego odkupienia, a że zakon świętego Franciszka w ten czas nie tylko pości i wstrzymywa się od mięsa i mlecznych
+        <pb n="24" facs="jpg/0044-2023-1183880.jpg"/> potraw, ale że jeszcze też przy tym umartwia ciało swoje z inszemi pokutnemi sprawami. Natychmiast jako król usłyszał tę naukę tak głęboką, urosła w nim chęć wiedzieć, jako i kiedy zstał się tak dziwny postępek przyszcia Chrystusowego na świat. A odpowiadając ociec, iż ta niewypowiedziana tajemnica i sekret niewyczerpniony<ref target="n-24-16" type="noteAnchor">16</ref>  niebieski, nie mógł się objawić bez porządku nauki i bez uprzedzających wielu kazań, które środkami są potrzebnymi na objaśnienie rozumu, aby mógł pojąć z małym światłem<ref target="n-24-17" type="noteAnchor">17</ref> swym skutki i dzieła dziwne wszechmocności miłego Boga. Odpowiedział król, iż miał wiadomość niejaką kilka lat przedtym, iż w Europie osobliwie<ref target="n-24-18" type="noteAnchor">18</ref>  miał być zakon jednego Boga we wszytkim z rozumem się zgadzający, a nie mogąc mieć śrzodku<ref target="n-23-19" type="noteAnchor">19</ref> żadnego, aby o nim słyszał, miło by mu to było na ostatek<ref target="n-24-20" type="noteAnchor">20</ref>, aby mu ociec chciał udzielić światłości tego zakonu i sporządzić sposób, jako by mu się podobał, na objaśnienie rozumu i rozmnożenie smaku duchowego, który z dawna miał do rzeczy tak bardzo pożądającej. Skończywszy obiad z tym przedsięwzięciem świętym, ociec polecał majestatowi Boskiemu stałość królewską i swoję własną nieudolność, aby udzielił ducha i siły na obudzenie króla z tak twardego snu ślepoty, w którym się mało czuć mógł i oświecić go światłością wiary wszytkich tajemnic Kościoła Bożego. Król tedy postanowił dzień, w który upodobało się słuchać nauki chrześcijańskiej, który był ośmnastego nowembra, dzień wielką tajemnicę z sobą niosący, abowiem w ten dzień Kościół Boży obchodzi poświęcenie kościoła ś&lt;więtych&gt; Piotra i Pawła<ref target="n-24-21" type="noteAnchor">21</ref> – chciał Pan Bóg, aby w ten dzień zaczynało się rozmnożenie i szczepienie kościoła Chrystusowego w Japonie, w który dzień zaczęło się też było w sławnym Rzymie.</p>
+</div>
+      <div type="1-6">
+      <pb n="25" facs="jpg/0045-2023-1183881.jpg"/>
+        <head>Jako ociec Sotelo uczynił wiele kazań przed królem na katechizm.</head>
+        <head type="sub">ROZDZIAŁ VI.</head>
+        <p n="1">Naznaczonej godziny audiencyją mając gotową królewską, przyszedł ociec przed obecność majestatu królewskiego. A w imię Stworzyciela nieba i ziemie zaczął deklaracyją katechizmu (abo nauki wiary świętej chrześcijańskiej), ukazując jasnemi wywodami  i nieprzełomionemi racyjami, iż ten świat nie był wieczny, ale stworzony i że jego początkiem był Bóg prawdziwy, Stworzyciel wszytkich rzeczy i Ociec wieczny tego wszytkiego, co się rodzi, a iż błądząc nie pomału bońcowie, to jest kapłani Japońscy, którzy przą<ref target="n-25-22" type="noteAnchor">22</ref>  opatrzności Bożej i nieśmiertelności dusze ludzkiej. I usilnie nauczają błędów w szkołach swoich; iż Amida, Jaka, Ramis i Fotoques<ref target="n-25-23" type="noteAnchor">23</ref>, którzy umarli jako i drudzy, potępieni do piekła jako członkowie dyjabelscy, mieliby rządzić tym światem i pany zostać drugiego żywota. Na co król zadając niektóre kwestyje i trudności ojcu Sotelowi, ociec też odpowiadając z wielką skromnością, nauki i przykłady rzecz wywodząc przyrodzonemi<ref target="n-25-24" type="noteAnchor">24</ref>, przywiódł do poznania rozum królewski o nieskończonej mocy Bożej i wieczności Majestatu jego; a iż jest fałszywa i próżna nauka, którą to przypisuje bogom japońskim. I tak postępując do drugiego i trzeciego artykułu<ref target="n-25-25" type="noteAnchor">25</ref>, dowodząc nieśmiertelności dusznej, stworzenia anjołow, upadku Lucyferowego – przełomił rozsądek królewski i przywiódł na wiarę i wyznanie tego wszytkiego, po wielkich wywodach i wątpliwościach zadawanych od króla, i rozsypanych od ojca. I tak przyznał, iż jest drugi żywot wieczny, na którym du-
+        <pb n="26" facs="jpg/0046-2023-1183882.jpg"/>sze tych, którzy wierzyli w tym żywocie w Boga prawdziwego i zachowali zakon święty jego, idą po śmierci na wesele wieczne do chwały niebieskiej. A tych zasię dusze, którzy nie naśladowali tej drogi zbawiennej i nie trzymali się tej ścieżki żywota wiecznego, były potępione do piekła. We czwartym artykule wywodził stworzenie człowieka i grzech jego przeszły do potomków. Konkludował, iż dyjabeł chciwy chwały ludzkiej na ziemi, tak jako Bóg jest chwalony w niebie, począł namawiać ludzi zaślepionych grzechem i nieznających swojego dobrego, aby go chwalili i jemu służyli w słupach, bałwanach i obrazach ludzkich, zwłaszcza tych ludzi, którzy jaką dzielnością byli wsławieni u świata, jako byli w Japonie Ramis, Fotoques, Jaka i Amida, w Grecyjej Jowisz i Bacchus, w ziemi włoskiej Saturnus i Janus, dając błędni ludzie każdemu tytuł boski wedle swego mniemania obłędliwego<ref target="n-26-26" type="noteAnchor">26</ref> abo dobrodziejstwa opinią swą od niego wziętego. A to wszytko w ludziach sprawowała chytrość i złośliwość jadowita dyjabelska, który zawsze starał się zaćmić rozumienie ludzkie, aby nie poznawał swego stworzyciela i nie chwalił go jako swego początku i swego ostatniego końca. A iż cześć która się wyrządza słońcu, księżycowi, gwiazdom prawdziwie jest obłuda dyjabelska. Abowiem jako rzeczy ducha niemające mieć nie mogą żadnej mocy nad duszą rozumną i wolną wolą ludzką ani obracać<ref target="n-26-27" type="noteAnchor">27</ref> szczęściem abo nieszczęściem żywota ludzkiego, gdyż nie mają własnej inszej dzielności, jedno że się po niebie obracają, a ziemię oświecając rozmnażają; i to tę moc nie od siebie, ale od Boga samego mają.</p>
+        <p n="2">A iż też wszytkie rodzaje grzechu, któremi ludzie Pana Bogga obrażają, są wynalazki dyjabelskie, który ustawicznie wiedzie z Bogiem wojne, wsiewając ustawicznie kąkol<ref target="n-26-28" type="noteAnchor">28</ref> jako w jaką rolą w naturę ludzką, która zepsowana i w złości zakamiała<ref target="n-26-29" type="noteAnchor">29</ref> , i owszem zawsze skłonna będąc do grzechu, srogim była zalana
+        <pb n="27" facs="jpg/0047-2023-1183883.jpg"/> potopem. Zostawując sobie tylko Pan Bóg Noego człowieka świętego i sługę sobie wiernego z domem jego dla zachowania i rozmnożenia lepszego narodu. Lecz znowu podrastając naród ludzki, puściła się też znowu złość i grzech pospołu, przeto obrał Pan Bóg głowę ludu swego, który by go chwalił imieniem Abrahama barona doskonałego, z którym przyjaźnią się związał i przez którego sposób postanowił pewnej znajomości i chwały sobie powinnej przez obrzezowanie i insze ofiary. Temu Pan Bóg pod rozmaitemi tajemnicami i figurami obiecał wcielenie wiecznej Mądrości, Syna swego Chrystusa Pana naszego. Abowiem nieskończona obraza, którą człowiek obraził Pana Boga, nie mogła się Bogu nagrodzić, jedno nieskończoną powagą wysług Chrystusowych jako jedynego sobie równego wiecznego Syna, nie mogąc temu dosyć uczynić żadna natura stworzona, zasługi mając w sobie każda skończone. A Bogu nieskończonemu, wiecznemu, który nie ma początku i końca nigdy mieć nie będzie, nieskończonej było nagrody potrzeba. Przystępując do piątego punktu kazania, z uciechą i ukontentowaniem wielkim serca królewskiego i z swym niewymownym weselem ociec przerzeczony, iż już znacznie poczuł się być ratowany posiłkiem niebieskim, jął zagrzewać i już jakoby związany rozum królewski wyrozumieniem tajemnic Boskich zapalać ku dalszemu rzeczy niebieskich pojmowaniu, opowiadając gorącym językiem, że już skończyły się te figury i proroctwa, i obietnice, które czynił Pan Bóg przez proroki święte, opowiadając przyszcie Messyjaszowe, że już w naturę ludzką wcielił własnego Syna swego, aby spełnił nigdy niezawiedzione Boskie słowo swoje, które był z dawna dał patryjarsze świętemu i wielom inszym prorokom, na odkupienie narodu ludzkiego i podniesienie natury jego do wiecznego pokoju chwały niebiekiej. Nie puszczając bez przypominania po trosze czystości Naświętszej Panny Maryjej Matki Bożej
+        <pb n="28" facs="jpg/0048-2023-1183884.jpg"/> jako poczęła czystością Syna Bożego w żywocie swoim, mocą Ducha Świętego, także też żywota świętego, cudów i kazania Chrystusa Jezusa Pana i Boga naszego. W szóstym kazaniu przyszedł do ukazowania końca i przyczyny naświętszej męki śmierci Syna Bożego, do tajemnic krzyża świętego, do zburzenia grzechowego, do swobody natury ludzkijej i do więzienia szatanowego, postępując pięknym porządkiem do Zmartwychwstania Pańskiego, do Wniebowstąpienia, do Zesłania Ducha Świętego i inszych tajemnic należących do tego artykułu. W siódmym traktując<ref target="n-28-30" type="noteAnchor">30</ref>  o zasługach i przesługach spraw naszych, o nagrodzie i karaniu na drugim żywocie zgotowanym złym i dobrym. Odkrył z wielkim przestrachem Sąd Boży powszechny i koniec świata, i powitanie umarłych, i chwałę świętą niebieską i piekielne wieczne karanie. Na ostatnim traktował o kazaniu apostolskim, o nauce, powadze i mocy duchownej Boskiej Kościoła Świętego Katolickiego Rzymskiego i o jego głowie powszechnej, i Pietrze świętym, i o tegoż namiestniku. Zamknął na ostatek ostatnie to kazanie zachowaniem dziesięciorga przykazania Bożego na dobrą i zyskowną służbę miłego Boga.</p>
+</div>
+      <div type="1-7">        <pb n="28" facs="jpg/0048-2023-1183884.jpg"/>
+        <head>Jako król wokseński wyznał, iż zakon Boży jest święty i dobry.</head>
+        <head type="sub">ROZDZIAŁ VII. </head>
+        <p n="1">Zrozumiawszy król historyją i naukę chrześcijańską różnemi czasy, a będąc ukontentowany<ref target="n-28-1" type="noteAnchor">1</ref> i przemożony<ref target="n-28-2" type="noteAnchor">2</ref> wielkimi racyjami i odpowiedziami mądremi, które ociec dawał na wiele wątpliwości podanych od króla gwoli bońcom i sektom japoń-
+        <pb n="29" facs="jpg/0049-2023-1183885.jpg"/>skim, tkniony w sercu od ognia Boskiego i oświecony od światła skutecznego, które Pan Bóg rozdawa na ten czas, gdy widzi w kim materyją sposobną<ref target="n-29-3" type="noteAnchor">3</ref> . Uczynił dzięki majestatowi boskiemu naprzód, a przy tym i ojcu, że go przywiódł światłem wiary świętej do poznania tak sprośnego<ref target="n-29-4" type="noteAnchor">4</ref> błędu, którym go był szatan właśnie omamił, oświadczając prawdziwym i jawnym wyznaniem, zewnętrzną boleścią przeszłego żywota swego, iż kto nie rozumie zacności tej przedziwnej nauki, tak się zgadzającej z światłem przyrodzonym<ref target="n-29-5" type="noteAnchor">5</ref>, a przeciwiającej marnym zabobonom japońskim, nie może być słusznie zwany stworzeniem rozumnym. Obdarzony własnościami dusze rozumnej, ponieważ nie zna swego początku, śrzodku swego własnego i końca. A jako koń widząc słońce, miesiąc i gwiazdy niebieskie, uwesela się, nie wiedząc kto stworzył taką różność pięknego stworzenia i dla którego końca są te stworzone rzeczy na świecie. Tak właśnie i król wokseński i inszy wszyscy Japończycy byli podobni onemu koniowi, który patrząc i smakując sobie z podziwianiem piękność niebieską i tę drugą ziemską, nie myśli nic o nieskończonej mocy stworzycielowej, nie przenika tajemnic onych, które się w nich zamykają. A jeśliż jest potrzeba, aby człowiek był oddzielony od zwierząt przez rozum przyrodzony, który ma w sobie, daleko więcej mu potrzeba, aby poznał jeden wszytkich rzeczy początek wieczny, który jest prawdziwy Bóg chrześcijański, a iż przez ten śrzodek chwały i służby jego, z pomocą i łaską jego dusza nieśmiertelna stworzona do nieba dzieli się od tych, które nie znają Boga i nie weselą się z zasługi Jezusa Chrystusa, są potępione do piekła. Z tego porównania, mówił król, dziś ja dopiero począłem być człowiekiem i poznawać godność i zacność natury mojej i zarazem brzydzę się i sprawiedliwym gniewem zapalam<ref target="n-29-6" type="noteAnchor">6</ref> się przeciwko Jace, Amidzie, Kobadagin<ref target="n-29-7" type="noteAnchor">7</ref>, Itangiadasin<ref target="n-29-8" type="noteAnchor">8</ref>, Darmie<ref target="n-29-9" type="noteAnchor">9</ref> i inszym mistrzom kłamstwa, którzy z takim oszukaniem 
+<pb n="30" facs="jpg/0050-2023-1183886.jpg"/>i rozumu ciemnością chcieli równać człowieka z bestyjami i zostawić go bez błogosławieństwa i odpocznienia i czasem mizerniejszego nad nad bestyje dzikie. Bo wżdy zwierzęta zażyją tego żywota, a ludzie ani tego, ani tamtego. I dlatego dziś zaraz rezolwuję się<ref target="n-30-10" type="noteAnchor">10</ref> zemścić krzywdy mojej na nich i pokazać to rzeczą samą, aby wszyscy poznali tę prawdę, którą ja wyznawam.</p>
+</div>
+      <div type="1-8"> <pb n="30" facs="jpg/0050-2023-1183886.jpg"/>
+        <head>Jako król wydał edykt, aby był przepowiadany zakon Boży, a żeby wszytko królestwo chrzest święty przyjmowało</head>
+        <head type="sub">ROZDZIAŁ VIII. </head>
+                <p>Zdała się rzecz nieprzystojna królowi, który poznawszy już z osobliwego przywileju Bożego nieskończoną moc wiecznego Boga, jako autora i stworzyciela wszytkiego świata, rządzącego i sprawującego rzeczy wszystkie widome i niewidome, i mając już objawione i pojęte tajemnice i skrytości tego wszytkiego, co za tym zbawiennego idzie; zdała się, mówię rzecz niegodna królowi, aby tychże tajemnic Boskich nie miały poznać stany w królestwie jego, będąc zwłaszcza obowiązani powinnością prawa, być tejże sekty<ref target="n-30-1" type="noteAnchor">1</ref> ludźmi, której i król będzie i konformować się<ref target="n-30-2" type="noteAnchor">2</ref> swoją zwierzchną głową, inszym dobrym członkom rozkazującą. Przeto uważywszy to u siebie, dobrze umyślił i statecznie postanowił na umyśle swym, z jaką nawiętszą być może pospolitą<ref target="n-30-3" type="noteAnchor">3</ref> uchwałą nadordynaryjną, aby wszytka jego szlachta jakiegożkolwiek stanu, wieku i kondycyjej<ref target="n-30-4" type="noteAnchor">4</ref> brali na się piątno chrześcijańskie przez sakrament chrztu świętego, a żeby ci, którzy by nie chcieli, gwałtem<ref target="n-30-5" type="noteAnchor">5</ref> przymuszani byli do przyjęcia przyrzeczone-
+        <pb n="31" facs="jpg/0051-2023-1183887.jpg"/>go sakramentu, jako klucza zbawiennego, który niebo otwiera i odkrywa skarb Kościoła Bożego, porzucając we wszystkim chwałę zabobonów bałwańskich<ref target="n-31-6" type="noteAnchor">6</ref>, i fałszywą naukę bońców<ref target="n-31-7" type="noteAnchor">7</ref> z dyjabłem konfederowanych. Mając to już przedsięwzięcie święte, posłał po ojca Sotela i rzecze mu: wielką melancholią urodziły mi w głowie te rzeczy, któreście mi powiedzieli, abowiem widzę się być z pojśrzodku<ref target="n-31-8" type="noteAnchor">8</ref> światłości, nie mogąc jej zażywać, a bez wątpienia byłbym zaraz chrześcijaninem, bym dobrze nie wiedział tym samym dostać mi nieprzyjaźni krewnych i dobrych przyjaciół moich, aczkolwiek i mnie przeszkodę tym sobie okrutną sprawię do wstąpienia na cesarstwo. To, co ja czynić chcę, niż państwo osiędę<ref target="n-31-9" type="noteAnchor">9</ref>, będzie, iż od dzisiejszego dnia i po tym chwalić będą Pana Boga, i starać się o to będę, aby zostali chrześcijanami za mnie wszytkie stany królestwa mego, aby Pan Bóg nie zgniewał się na mię, niż będę ochrzczony. A widząc ociec, iż chciał przymuszać edyktem pospolitym naprzedniejsze stany do chrztu świętego, radził królowi, aby tego nie czynił, powiadając mu, iż chrzest święty ma być dobrowolny, a nie przymuszony, dla przyjęcia prawdziweo znaku Bożego na duszy i dla skutku zbawiennego otrzymania, który jest w tym sakramencie. Deliberował zaraz król uważniejszym rozsądkiem o inszym edykcie, aby zakon Boży Ewanjelijej świętej był przepowiadany i rozgłaszany, który kazał przybić na bramie królewskiego pałacu i wewnątrz onego pałacu, na własnej samej swej sali królewskiej 23. Novemb&lt;er&gt;<ref target="n-31-10" type="noteAnchor">10</ref> roku 1611, który edykt to w sobie zamykał, aby był jawnie przepowiadany zakon boży w jego królestwie, a żeby byli chrześcijany ci, którzy by chcieli przyjmować chrzest chrześcijański. Lecz frasobliwy król około tego, aby się szczepiło drzewo rodzące owoce żywota wiecznego i rozsiewało się bez omieszkania nasienie prawdy Chrystusowej po polach japońskich, a jakoby nie zostawał i najmniejszy cień abo ślad zabobonów i sekt japońskiego na-
+        <pb n="32" facs="jpg/0052-2023-1183888.jpg"/>rodu, chcąc do zapomnienia przywieść i sekty, i bońce japońskie. Powtórzył znowu pytanie do ojca z wielkim afektem, którego by sposobu miał zażyć, aby bez długiej odwłoki<ref target="n-32-11" type="noteAnchor">11</ref> wszytko królestwo jego mogło wyznawać zakon i wiarę Chrystusowę i w imię jego chrzcić się wszytko, aby mogło dostać nieśmiertelności inszego żywota? Na co odpowiadając ociec, rzekł, jeśliby chciał dostojeństwy<ref target="n-32-12" type="noteAnchor">12</ref> i łaską królewską uczcić tych, którzy by się chcieli do tego jawnie ukazać przed wszytkimi wzgardę i porzucenie bałwanów, Kamis<ref target="n-32-13" type="noteAnchor">13</ref> i Fotoques<ref target="n-32-14" type="noteAnchor">14</ref>. A zatem król kazał się pytać potajemnie o takich nowochrzczonych, a każdemu wedle jego stanu, urzędy i dostojeństwa przednie w królestwie rozdał. Ku temu końcowi, żeby drudzy, wzbudzeni tą łaską i szczodrobliwością królewską, przyszli rychlej do Kościoła Bożego i ćwiczyli się dobrowolnie tych członków<ref target="n-32-15" type="noteAnchor">15</ref> nauki należącej do tej wiary i do chwały Boskiej. I był w tym tak gorący, iż też dowiedziawszy się, że pewni myśliwcy<ref target="n-32-16" type="noteAnchor">16</ref>, którzy opatrowali<ref target="n-32-17" type="noteAnchor">17</ref> sokoły, zostali chrześcijany, zdjął z siebie ubiór swój królewski<note type="argument" place="margin">Wielka szczodrobliwość króla przeciwko nowym chrześcijanom</note>
+                </p>
+                <p>, który na sobie nosił i rozdał go onym trzem sokolnikom przed wszystkimi dworzany swemi, którzy stali przed nim, tak mówiąc: „Kto jest chrześcijaninem ma duszę tak piękną, iż godzien jest, aby był ubrany w szaty królewskie”. Ta sprawa ruszyła tak potężnie pospólstwo, iż już nie mógł żaden wniść<ref target="n-32-18" type="noteAnchor">18</ref> do kościoła onego, który był zbudowany, jeśli barzo rano nie przyszedł abo barzo długo nie czekał.</p>
+            </div>
+      <div type="1-9">       
+      <pb n="32" facs="jpg/0052-2023-1183888.jpg"/>
+                <head>Jako król rozkazał, aby z gruntu wywrócono jeden kościół, w którym bałwany chwalono.</head>
+                 <head type="sub">ROZDZIAŁ IX. </head>
+        <p n="1">Skoro już król z uważnym rozsądkiem wynurzył swoją intencyją i odkrył jawnie ostatnią wolę swoją, którą w sobie miał, żeby zakon Boży tym mocniej na sercach ludzi królestwa 
+        <pb n="33" facs="jpg/0053-2023-1183889.jpg"/>swego był wyrysowany, natchniony duchem niebieskim ku wykonaniu świętego przedsięwzięcia swego, jadąc na drodze do miasta Ksandai piętnaście mil od stolice swej, które miasto dla wspaniałych pałaców i uciesznego<ref target="n-33-1" type="noteAnchor">1</ref> barzo położenia miejsca jest między inszemi przedniemi miasty królestwa tego. Przyjachawszy do jednej rzeki, w której wielka moc łowi się pstrągów (miał okazyją<ref target="n-33-2" type="noteAnchor">2</ref> do onego miejsca, tedy umyślnie dla uciechy królewskiej pstrągi łowiono), widząc jeden wielki kościół nazwany Maitksuksima, jeden z siedmi kościołów bałwochwalskich, najprzedniejszych we wszytkim Japonie, jako jest u nas Panny Naświętszej Kościół najprzedniejszy w Monseracie w Katalunie abo jako tejże Panny Naświętszej sławny jest drugi w Lorecie pod Ankoną. Do którego to kościoła bałwochwalskiego schodziła się także nieskończona liczba pielgrzymów dla dostąpienia łaski u bogów i uproszenia od puszczenia grzechów. Kościół zaprawdę barzo szeroki, ozdobny i nader bogaty, dla niemałej liczby bońcow i niepodobnej liczby słupów kamiennych, z któremi on naród pogański porodził się w błędach i które z rozmaitemi ceremoniami i różnemi sposobami ustawicznie bałwochwalnie czcili. Do tychże to bałwanów, gdyby który z pielgrzymów miał przyść, jako nieobyczajnie i nie z oną pokorną intencyją i uczciwością niską ku onym przeklętym słupom, dopuszczał Pan Bóg, iż ono dyjabelstwo, które przy onych słupach mieszkało, mściło się tego okrutnemi plagami i ciężkim barzo karaniem nad takowymi ludźmi. Co samo czyniło taką bojaźń i strach tak okrutny w pielgrzymach, iż żaden nie śmiał opuścić namniej ceremonij onych, których zwyczaj był tam odprawowania.</p>
+        <p n="2">Rozgniewany król, iż służba, którą rozumne stworzenie powinno oddawać Bogu, który je stworzył i który ten świat wszytek z niszczego zbudował, oddaje się jednak ślepym bałwanom, głuchym i niemym słupom, a iż diabelstwo trijumfa-
+        <pb n="34" facs="jpg/0054-2023-1183890.jpg"/>ło z dusz całego Japonu, podniózszy głos i serce do nieba, wielkim głosem zawołał na Boga, aby go podpomógł na zepsowanie<ref target="n-34-3" type="noteAnchor">3</ref> jednej sekty z dawna od diabła prowadzonej, a żeby w tej sprawie świętej pokazał, iż jest onym Bogiem faraonowym. I tak z onym sercem nieustraszonym, zapalony gniewem świątobliwym, odłożywszy bojaźń i on pierwszy respekt, który przed tym miał ku onym bogom chwalonym przez tak długie wieki przeszłe, rozkazał pod gardłem wielkości wielkiej onej ludzi, która ustawicznie jest dla zdrowia i majestatu, i przypadków rozmaitych około osoby jego, aby bez rozmyślania zarazem zhańbili on bałwochwalski kościół, naśmiali się z bałwanów onych przedtym straszliwych, żeby poobalali ołtarze, bałwanom na ołtarzach postawionym, żeby postrącali łby, kamienne cielska poobalali, po ziemi włóczyli. Szydząc z Amidy<ref target="n-34-4" type="noteAnchor">4</ref>, jak i naśmiewając się z kamis i fotoques wołając na nich, iż jeśliby teraz, jako przez tak wiele lat nad Japonem mogli, aby się obronili od takich despektów i mścili się tak wielkiej sromoty zdeptania ciał swoich.</p>
+        <p n="3">
+                    <note type="argument" place="margin">800 bałwanów przez lat 1800 chwaleni </note>A natychmiast na ono rozkazanie królewskie zginął respekt przeciwko onym ośmiset bałwanom kamiennym, z których niektórzy byli niesłychanej wielkości, rzędem w onym kościele wkoło postawieni, przez tysiąc i ośmset lat zawsze chwaleni. I tak jednych w morze powmiatali, drugich w rzekę powrzucali, trzecich po ziemi rozmiotali, krzycząc ogromnym wołaniem: niechaj żywie<ref target="n-34-5" type="noteAnchor">5</ref> Bóg chrześcijański, mocniejszy nad wszytkie bogi japońskie. Zostając wszyscy w niesłychanym zadziwieniu, jako one obrazy kamienne tych, którzy przymuszali na ono ich tłuczenie i własnego kościoła ich obalanie, jako ci bogowie rozgniewani, nie zemścili się ostrym jakim karaniem i plagami ciężkimi nad nimi swojej tak nieznośnej krzywdy.</p> 
+        <p n="4">Po takiej porażce dyjabłów król uweselony i triumfujący z tarczą wiary świętej prosił ojca Sotela, aby szedł w 
+        <pb n="35" facs="jpg/0055-2023-1183891.jpg"/>osobie swej, a przypatrzył się wielkiemu cudowi swego własnego Boga. I obaczył obalenie bałwanów, zelżenie ich kościoła i ucieczkę dyjabelską. Usłuchawszy w tym króla, nalazł niezliczone sztuki bałwanów po ziemi i ludzi kupę wielką, którzy tak wyznawali, iż była większa moc królewska niż moc Amidy bożka i jego kompanów, a iż król mając znajomość prawdziwego Boga chrześcijańskiego ma panowanie w imieniu jego nad wszytką mocą piekielną dyjabelską. Z czego uradowawszy się ociec niesłychanie i potwierdzając onych ludzi w wierze i w zachowaniu mandatu królewskiego obiecał ich nauczyć wiary chrześcijańskiej wedle ich żądania, które pokazowali, chcąc wiedzieć drogę pewną do inszego<ref target="n-35-6" type="noteAnchor">6</ref> żywota. A wróciwszy się do króla z powieścią barzo wdzięczną, spólnie się weselili z onego zwycięstwa i nieskończone dzięki czynili Boskiemu majestatowi, iż raczył pobłogosławić własnej swojej sprawie i ugruntować w umyśle królewskim prawdę wiary chrześcijańskiej.</p> 
+<p n="5">Drugim powtóre razem w jednym kościele barzo sławnym bałwańskim, rozkazał król bońcom, aby toż uczynili swemu kościołowi, a nie chcąc króla słuchać dla onych bałwanów rozgniewany król rozkazał, aby miasto zapalono z bońcami. Egzekutor tego rozkazania królewskiego był ten teraźniejszy poseł wielmożny pan Filip Faksekura, który będąc kapitanem nad jedną gwardyją królewską, której było cztery tysiące strzelców, zapaliwszy ogniem ono ich mieszkanie, mając niejakie pożałowanie nad bońcami, kazał ich pościnać, aby żywi nie gorzeli w ogniu. Jeden boniec przedni króla potkawszy z jednym obrazem odpustnym, aby był król odpust od niego przyjmował z zwykłą uczciwością, rozkazał król, aby mu on obraz na łeb włożono. Co zrozumiawszy jeden z halabartników<ref target="n-35-7" type="noteAnchor">7</ref> królewskich onymże obrazem przeraził mu łeb do mózgu. I dla tego najprzedniejszy panowie ruszyli się do słuchania zakonu Bożego i do chrztu ś&lt;więtego&gt;.</p>
+  </div>
+      <div type="1-10">
+                <pb n="36" facs="jpg/0056-2023-1183892.jpg"/>
+<head>Jako się ochrzciła moc wielka ludu w królestwie, obaczywszy zepsowanie bałwanów</head> 
+<head type="sub">ROZDZIAŁ X</head>
+<p n="1">Odkrywszy się jawnie fałsz sekt i niepotężność bałwanów i moc nieskończonego Boga chrześcijańskiego po tych robotach królewskich, płonął taki płomień wiary w sercach japońskich, iż z niewymowną chęcią i pilnością cisnęli się do nauki wiary chrześcijańskiej, a z pragnieniem wielkim domagali się sakramentu chrztu świętego, tak iż ociec Sotelo ze trzema drugimi kaznodziejami japońskimi we dnie i w nocy nie przestawali i uczyć wiary świętej początków i chrzcić wielkości niesłychanej ludzi, którzy, jednostajnym sercem łzy wylewając, dawali znak wielkiego wesela duchownego, dziękując Panu Bogu, iż w tym królestwie poczęła wschodzić światłość Ewanjelijej ś&lt;więtej&gt; i ludzie jęli brać nadzieję pewną zbawienia wiecznego.</p>
+                <p n="2"> Widząc król znaczne rozmnożenie wiernych, aby mogli mieć sposobność na zgromadzenie swoje ku rzeczom duchownym, zamyślał na ostatek budować kościoły, klasztory, kaplice; lecz powiadając ociec, iż w królestwie nie było kapłana żadnego, a iż mało było po tym wystawiać kościoły bez kapłanów próżne i winnice chcieć mieć bez robotników jest rzecz nieużyteczna. Zafrasował się król barzo z tego, iż nie mógł dla takiego niedostatku budować pysznych<ref target="n-36-1" type="noteAnchor">1</ref> klasztorów i mieszkania, i kościołów godnych majestatu swego królewskiego ku czci i ku chwale wszechmocnemu Bogu, który go oświecił; aczkolwiek oni, nowi chrześcijanie dla schodzenia spólnego zbudowali byli dwa małe kościołki. Przeto wiele ra-
+                <pb n="37" facs="jpg/0057-2023-1183893.jpg"/>zów król pytał się u ojca, jakoby temu przedsięwzięciu radzić i co by z tym począć. Na które następowanie królewskie, na ostatek tak ociec powiedział, iż wszytko chrześcijaństwo po świecie ma jedną głowę i namiestnika chrystusowego nawyższego biskupa rzymskiego, ojca i pasterza kościoła powszechnego, do którego doskonale należy rząd duchowny kościelny, rozmnażanie wiary i wszelka rozprawa około stanu kościoła bożego, po wszytkich, a wszytkich królestwach wszytkiego świata, a osobliwym sposobem w tych stronach, gdzie się dopiro zaczyna rozmnażanie wiary ś&lt;więtej&gt; katolickiej. Zarazem pytał król o drodze, w którą by miał wyprawić posła swego, a wziąwszy wiadomość od ojca, postanowił u siebie, aby tenże własny ociec Sotelo jachał w tę drogę na oddanie posłuszeństwa ojcu naświętszemu, jako wiadomy wszytkich zamysłów swoich, dyspozycyjej, stanu i kondycyjej królestwa swego, mówiąc mu temi słowy, iż jeśliby sam ociec nie jachał, nie wzięłoby pożądanego końca to poselstwo. I aczkolwiek niedobrze by było w tym czasie chrześcijaństwu bez ojca i nowej bez gospodarza winnicy, jednak ufając Bogu, który go przysłał do swego królestwa, że mu do końca nie odmowi tej łaski, aby go zaś przyprowadził do niegoż z wielą<ref target="n-37-2" type="noteAnchor">2</ref> drugiego towarzystwa, tak żeby wszyscy w królestwie jego poddani chrześcijany zostali. A następując gorąco król w tej mierze, nie mógł się mu ociec więcej wymawiać, nie chcąc w przek iść<ref target="n-37-3" type="noteAnchor">3</ref> tak pobożnej chęci, ktorą król miał przeciwko stolicy świętej, ofiarując słabość swoją na posługę majestatowi bożemu i królewskiemu, który go o to tak barzo prosi. Z czego uweselony król niesłychanie rozkazał zarazem do swych starostów i sekretarzów, aby to wszytko wykonali, co by im ociec Sotelo rozkazał, a nie oglądając się na żaden koszt, aby go opatrzyli wszelkimi potrzebami na drogę i na ozdobę takiego poselstwa.</p>
+</div>
+      <div type="1-11">        
+      <pb n="38" facs="jpg/0058-2023-1183894.jpg"/>
+        <head>O zwróceniu<ref target="n-38-1" type="noteAnchor">1</ref>, które ociec Sotelo uczynił z królestwa woxeńskiego do dworu cesarskiego i o przyczynach, które miał na to powrócenie, i o gorącości ducha Japończyków.</head>
+        <head type="sub">ROZDZIAL XI</head>
+        <p n="1">Z tej okazуjej, rzecz była potrzebna przerwać tę drogę, wyprawę i powrócenie uczynić ojcu Sotelowi do dworu cesarskiego, iż Holandowie przyjachali w pewnym poselstwie od książęcia Maurycego do imperatora, chcąc z nim zawrzeć konfederacyją i ligę uczynić<ref target="n-38-2" type="noteAnchor">2</ref>, ofiarując mu żeglarze ćwiczone na morzu strzelbą i rzemięślniki doskonałe, ku temu końcowi, aby puściwszy się ze spólnemi wojski na morze, mogli się pany uczynić wszytkiej Indyjej, wschodniej i zachodniej. Ukazując tę rzecz łatwą i do wykonania snadną dla małej potęgi króla hiszpańskiego, którą ma w tamtych krainach, a tym więcej, iż jest tyrannem, posyłając do obcych królestw zakonników, którzy z wielu pogan czynią chrześcijany, potym ich pod moc podbija i tyranizuje, jako uczynił Nowej Hiszpanijej<ref target="n-38-3" type="noteAnchor">3</ref>, Perowi, i inszym krainom, wspominając wiele rzeczy na wzgardę i podeptanie zakonników. Jednak zastawiając się przerzeczonej legacyjej ociec Sotelo, tak jako mógł najlepiej, postarał się, aby jeden z wiernych imperatorowych był doskonale informowany, jacy to byli ludzie i czego w tym poselstwie szukali. Co uczynił ociec z taką jasnością, iż samiż Holandowie to przyznawali, co im zadawano, i ci, którzy byli z rady imperatorowej obaczyli i radzi na tym przestali, iż lepsza była przyjaźń z królem katolickim, a niżeli z jego rebelizantami<ref target="n-38-4" type="noteAnchor">4</ref>, którzy nie trak-
+        <pb n="39" facs="jpg/0059-2023-1183895.jpg"/>tują ni o czym, jedno o kradzieży, a o rozboju na morzu. I stąd postanowił imperator posłać przerzeczonego ojca w poselstwie do króla hiszpańskiego, na skończenie ostateczne społku i traktowania z jego królestwy w Filippinach leżącymi, które Nową Hiszpanią zową, rozkazując zarazem, aby robiono na tę drogę jedną nawę<ref target="n-39-5" type="noteAnchor">5</ref>. O czym dowiedziawszy się król wokseński, dał znać ojcu Soletowi, iż już nie mógł z nim jachać drugi jego poseł, będąc w cudzej nawie, a żeby już ociec sam podjął się tego odprawić imieniem jego poselstwo namówione, a iż mieli z nim jachać dwaj słudzy jego żołnierze, którzyby ufność czynili tej prawdzie.</p>
+        <p n="2">Kiedy się to tak już zstało wszystko, tym sposobem odbił się z drugimi od brzegu, roku 1612 w wieczór święta ś&lt;więtego&gt; Franciszka<ref target="n-39-6" type="noteAnchor">6</ref>, niosąc z sobą dwoję legacyją<ref target="n-39-7" type="noteAnchor">7</ref>. Onejże nocy wyjachawszy jedno z portu, ona w której płynęli nawa, na jednym morskim w wodzie kopcu<ref target="n-39-8" type="noteAnchor">8</ref> rozbiła się i wniwecz rozsypała na wiele części, nie straciwszy jedno jednego, gdyż drudzy za łaską miłego Boga zostali zdrowymi. Odniesiono królowi wokseńskiemu ten nieszczęsny przypadek ojcowski, któremu posłał powiedzieć, że się z tego niepomału frasował, a z drugiej strony weselił, że się miał jeszcze z nim widzieć, prosząc go za tym o zwrócenie do królestwa swego, abo o przysłanie kapłanów jakich tym czasem, który nie mieszkając do królestwa wokseńskiego, posłał trzech kaznodziejów japońskich, którzy się rozdzielili do różnych prowincyj, a po tym dwu drugich, do drugich dwu prowincyji, a każdy z nich uczył wielki dusz pożytek i nawrócili wielką moc poganów, którzy nauką i dobrym przykładem kaznodziei przerzeczonych, księgami duchownemi w język ich japoński przełożonemi i literami ich napisanemi, jako i listami, które im ociec posyłał częstemi, nie mogąc ich sam nawiedzić, zatrzymany ważnemi sprawami na dworze książęcym syna imperatorowego. Tak się zachowali w takiej ducha gorą-
+        <pb n="40" facs="jpg/0060-2023-1183896.jpg"/>cości i w tym nabożeństwie chrześcijańskim, iż ich żywot pospolity był raczej zakonników wybornych, niż ludzi świeckich. Pisowali do ojca Sotela ci kaznodzieje jego z narodu japońskiego, iż nauczali katechizmu, odprawiania modlitwy, dyscypliny, umartwiania ciała, postów, które sami czynili. A między wielą rzeczy, iż będąc ochrzczony jeden Japończyk barzo bogaty spólnie z żoną swoją zawiązali się oboje ślubem zachowania wiecznej czystości. A widząc, iż Pan nasz, Jezus Chrystus był ukrzyżowany dla naszego odkupienia, uczynili testament, darowali wolnością niewolniki swoje. Rozdzielili dobra swe na miłosierne uczynki, a sprawiwszy dwie szaty długie z jedwabiu i dwa krzyże dali obwołać po mieście przez trąbę, iż Piotr Katai i Luizja małżonka jego dla wdzięczności i oddania, iż Jezus Chrystus ich odkupiciel był przybity na krzyżu dla nich dnia jutrzejszego dadzą się przybić na krzyżu i pomrą przebici włócznią od jednego z niewolników swoich. Usłyszawszy to obwołanie niektórzy chrześcijanie, pobiegli dać znać jednemu kaznodzieji nauczającemu wiary, który przyszedłszy nauczył ich tego, co byli powinni uczynić. A obaczywszy ono mylenie swoje w dzień święty niedzielny jawnie przyszli do kościoła, wyznawając grzech swój przed wszytkimi chrześcijanami, niechcąc nic wziąć z tego co rozdali, kontentując się jako może być największą nagrodą ubóstwem swym. <hi rend="ital">In summa</hi><ref target="n-40-9" type="noteAnchor">9</ref>  mówiąc, są chrześcijanie tamtego królestwa barzo nabożni i gorący i dają przykłady dobroci po wielu miejscach kędy się obrócą, a osobliwie ci w wokseńskim państwie. Są tak bojaźliwemi dopuścić się śmiertelnego grzechu abo obrazić Pana Boga, przestępując jego przykazanie, iż woleliby tysiąc razy dać się na męczeństwa, a niż raz zezwolić na obrazę miłego Boga.</p>
+</div>
+      <div type="1-12">       
+      <pb n="41" facs="jpg/0061-2023-1183897.jpg"/>
+        <head>O przeszladowaniu<ref target="n-41-1" type="noteAnchor">1</ref>, które przez niezgodę dwu zacnych chrześcijanów na dworze przednich wszczęło się w Japonię; a jako król wokseński<ref target="n-41-2" type="noteAnchor">2</ref>  i ociec Sotelo<ref target="n-41-3" type="noteAnchor">3</ref>  obaczyli się<ref target="n-41-4" type="noteAnchor">4</ref>  na dworze książęcym i co miedzy sobą postanowili.</head>
+        <head type="sub">ROZDZIAL XII.</head>
+        <p n="1">Nieprzyjaciel zawisny diabeł, widząc przez takie do wiary nawracanie utrate swoję, zwarł z sobą dwu chrześcijan naprzedniejszych: Pawła Daisaki, wicesekretarza imperatorowego i Jana króla arymskiego<ref target="n-41-5" type="noteAnchor">5</ref>, którzy tak sie barzo nienawidzieli, iż jeden odkrył niepoczciwości i zdrady drugiego, czego dowiedziawszy się imperator<ref target="n-41-6" type="noteAnchor">6</ref>, uczynił sobie sprawiedliwość z obudwu. A chociaż miał dobre rozumienie o chrześcijanach, z tej okazyjej stracili je; i dał znać, iż chciał wojnę podnieść przeciwko nim. Ale po tym uhamował się, kontentując się<ref target="n-41-7" type="noteAnchor">7</ref> wyrzuceniem z pałacu wszytkich tych, którzy byli chrześcijany, z których posłał niektóre na wygnanie do jednej Insuły<ref target="n-41-8" type="noteAnchor">8</ref>, kędy<ref target="n-41-9" type="noteAnchor">9</ref> odsyłają ludzi złośliwych w Japonie, wyrzuciwszy przy tym i jednę konkubinę, niźli jeszcze została chrześcijanką. Toż uczynił czternastom chrześcijanom zacnym i przednim: pobrawszy im intraty<ref target="n-41-10" type="noteAnchor">10</ref>, majętności, rozkazując po wszytkim swym państwie, aby ich żaden nie śmiał przyjmować, ani ich bydłu, ani im dając żywności więcej nad jeden dzień, aby tym sposobem musieli się tułać po wszytkim Japonie. Z czego biorąc przykład niektórzy panowie uczynili toż z sługami swemi, którzy byli chrześcijańskiej wiary. Mianowicie książę, syn cesarski<ref target="n-41-11" type="noteAnchor">11</ref> wygnał z dworu swego i z miasta Jendo<ref target="n-41-12" type="noteAnchor">12</ref> wszytkie chrześcijany, którzy jedno
+        <pb n="42" facs="jpg/0062-2023-1183898.jpg"/>
+        tam byli, nawet i zakonniki Franciszka ś&lt;więtego&gt;, oprócz ojca Sotela, który tam został z jego pozwoleniem dla wyprawy onej do Hiszpaniej<ref target="n-42-13" type="noteAnchor">13</ref>, a iż nie dawno tam był, przyszedł. Żal i utrapienie, które uczyniło to wygnanie sromotne<ref target="n-42-14" type="noteAnchor">14</ref> (widząc ojce dziatki opuszczające i żony, nie wiedząc, kędy szli i gdzie by się obracali, nie mogąc nic wziąć z sobą jeno na dzień jeden trochę pożywienia) sam ociec Sotelo tylko mógłby to powiedzieć, a nie ja wypisać; a oni, zakonnicy, którzy wychodzili z chrześcijany, któzy, (jako powiadają) gdyby jałmużnami nie wspomagali byli onych wygnanych chrześcijan utrapionych, w drodze poumieraliby byli. W pół prawie przeszladowania tego nie przyszło do męczeństwa ani do krwie rozlania, dla imperatora, który tego nie chciał. Książę syn imperatorów, a ten jest, który już rządzi państwem japońskim, zaprosił króla wokseńskiego, Świekra<ref target="n-42-15" type="noteAnchor">15</ref> swego, na myślistwo z Sokoły i z tej okazyjej przyjachał do dworu. Uweselony barzo król wokseński, iż oglądał ojca zdrowego i przystąpił znowu do traktowania, iż mu chciał zgotować kazać drugą naw<ref target="n-42-16" type="noteAnchor">16</ref> , aby odprawiała się ta jego legacja<ref target="n-42-17" type="noteAnchor">17</ref> z przystojnością<ref target="n-42-18" type="noteAnchor">18</ref> tą, która należy majestatowi jego królewskiemu. Uczyniwszy tę rezolucją, rozkazał, aby robiono onę nawę z wielką prędkością: a natychmiast do roboty obrócono 800 cieślów, 700 kowalów i 3000 ludu pospolitego do inszej posługi, którzy wszyscy robiąc pospołu, skończyli robotę onej nawy za 45 dni i z tąż prędkością opatrzyli wszytkiemi potrzebami na upominki, koszty i wydatki onej drogi. Deklarował zarazem i mianował posłem Sarekure Rokuyemon<ref target="n-42-19" type="noteAnchor">19</ref>, kawallera barzo zacnego z familiej starodawnej, którego przodkowie pierwszy przyjechali z Meaku z Jamakanguą<ref target="n-42-20" type="noteAnchor">20</ref>, Chiusem<ref target="n-42-21" type="noteAnchor">21</ref>onym, który drugą razą przyjachał na odbieranie królestwa wokseńskiego, jako się wyższej wspomniało w położeniu wtórym. Pan jest wsi, miasteczka i ziemice swoje mający, kapitan naprzedniejszy nad strzelcami gwardiej kró-
+        <pb n="43" facs="jpg/0063-2023-1183899.jpg"/>lewskiej, człowiek wielkiego rozumu i serca, doświadczony od króla tak w rzeczach wojennych, jako i czasu pokoju około sprawowania państwa i rządu domowego: tak, iż przez jego dzielność sporządzony jest wszytek dwór królewski. Spodobała się wszystkim ta jego elekcja i z wielką pochwałą wszytkich podjął się tej legacyjej, nie bez jednak tego, aby mu drudzy nie zajźrzeli tak wielkiego szczęścia. Król rozkazał, aby żona i dzieci jego przyjachali do dzierżawy królewskiej, która jest ode dworu królewskiego trzy dni jazdy do miasta ze wszytkiemi sługami, a żeby mieli nie daleko intratę i wysługę. Dał im pałac wielki jeden ze dwiema wsiami bogatemi, trzy mile ode dworu, gdzie mogli się przejeżdżać dla swej uciechy, a to uczynił król dlatego, aby poseł z więtszym swym affektem<ref target="n-43-22" type="noteAnchor">22</ref> w drogę odjeżdżał.</p>
+</div>
+      <div type="1-13"> <pb n="43" facs="jpg/0063-2023-1183899.jpg"/>
+       <head>O przeszladowaniu, które wznowił książę w mieście Jendo: o sławnym męczeństwie dwudziestu i ośmi japońskich chrześcijan: o więzieniu i skazaniu na śmierć; i na ostatek<ref target="n-43-1" type="noteAnchor">1</ref> wyzwoleniu ojca Sotela.</head>
+       <head type="sub"> ROZDZIAŁ XIII</head>
+<p n="1">Będąc już wyprawiony, ociec Luigi Sotelo ode dworu imperatorowego i od onego drugiego dworu książęcego syna cesarskiego, i prawie już będąc w drodze do królestwa wokseńskiego, aby już wsiadł w nawę w kompaniej<ref target="n-43-2" type="noteAnchor">2</ref> z przerzeczonym<ref target="n-43-3" type="noteAnchor">3</ref> posłem, powsstało prześladowanie przeciwko chrześcijanom 21 lipca roku 1613. Z rozkazania książęcego syna starszego imperatorowego w własnym dworze jego w Jendo, ze złego u-
+<pb n="44" facs="jpg/0064-2023-1183900.jpg"/>dania bońcow i dla zazdrości, widząc iż utracili wielkość nie małą parochianów<ref target="n-44-4" type="noteAnchor">4</ref> i swoich sektarzów<ref target="n-44-5" type="noteAnchor">5</ref>, jako i dla jednego kościoła i cmyntarza uczynionego dla pogrzebów chrześcijańskich. Abowiem wsadzono do więzienia 1600 chrześcijan, oprócz tych wielu, którzy byli wyjachali z miasta i nie wrócili się więcej. A jeśli którzy nazad<ref target="n-44-6" type="noteAnchor">6</ref> się wracali, imano ich i do więzienia sadzano, drudzy się kryli, a drugich poznawać nie możono. Przeto, chodząc przerzeczony ociec po tarasach i wieżach, słuchał ich spowiedzi świętej pocieszając ich i nosząc jałmużny dla pożywienia i żywności, abowiem oprócz mąk cierpieli głód wielki. Aczkolwiek to wszytko znosili w wielkiej stateczności, aby nie opuszczali klejnotu drogiego wiary, którą przyjęli Boga prawdziwego świętcy. I owszem, ociec wziął częścią pożyczanym obyczna końcu ajem od kupców, częścią przez jałmużny, niemałą summę we srebrze i złocie na poratowanie chrześcijan więzionych, jako i na pożywienie ich żon i dziatek<ref target="n-44-7" type="noteAnchor">7</ref> zostawionych. Czego, gdy się dowiedzieli konsyliarze<ref target="n-44-8" type="noteAnchor">8</ref> książęcy, kazali powiedzieć przerzeczonemu ojcu, aby jachał w naznaczoną drogę. Ale on odpowiedział, iż nie byłaby to rzecz dobrego ojca opuścić swoje syny w takim ich utrapieniu. To, gdy odniesiono książęciu, rozkazał, aby zaraz wyjeżdżał z dworu, a do nawy się brał. Lecz gdy wymawiał się jako mógł naprzystojniej<ref target="n-44-9" type="noteAnchor">9</ref>, przyszło do tego, że rozgniewany okrutnie książę rozkazał go pojmać, obstąpiwszy jego mieszkanie, gdzie stał z wielką gwardią, zadając<ref target="n-44-10" type="noteAnchor">10</ref> mu nieposłuszeństwo i że popadał<ref target="n-44-11" type="noteAnchor">11</ref> winę obrazy Pańskiego majestatu dla trzech mianowicie przyczyn: pierwsza, że lekceważył poselstwo które nań książę i imperator włożyli na traktowanie pokoju i przyjaźni z królem hiszpańskim<ref target="n-44-12" type="noteAnchor">12</ref>. Druga, że nie usłuchał rozkazania niewyszedszy zaraz z domu Pańskiego. A trzecia, iż namówił chrześcijany, aby nie słuchali swoich urzędników, a ta rzecz była jako rebellia poddanych przeciw książęciu i dlatego chciał, aby ociec spra-
+<pb n="45" facs="jpg/0065-2023-1183901.jpg"/>wił się<ref target="n-45-13" type="noteAnchor">13</ref> z tego. Odpowiedział na pierwszą, iż poważał barzo polecone sobie poselstwo, ale że jeszcze nie czas był drodze, a że chciał widzieć koniec duchownych synów swoich, a po tym miał zacząć drogę. Na drugą odpowiedział, iż mu rozkazowano rzecz taką, która była przeciwko przyrodzeniu opuszczać syny w takowym przypadku, kiedy ich widział umierających od głodu, a iż dla tego samego respektu nie powinien był posłuszeństwu podlegać. Na trzecią, iż rozkazował majestat jego książęcy, aby chrześcijanie opuszczali zakon Chrystusów<ref target="n-45-14" type="noteAnchor">14</ref>, a przjmowali błędy japońskie<ref target="n-45-15" type="noteAnchor">15</ref>, czego nie mógł sprawiedliwie czynić nie mając zwierzchności w tej mierze nad nimi, ale ją tylko trzymając w doczesnych rzeczach tego żywota. Abowiem w rzeczach wiecznych zwierzchność sam nad nimi ma Pan wszytkiego świata, Bóg wszechmogący, którego przerzeczony ociec był niegodnym sługą i któremu działo się bezprawie wielkie. I tak, nie tylko nie czynił nic złego, zastawiając się swemu wyrokowi jako sprawiedliwości nie mającemu, ale jeszcze, iż był koniecznie powinien zastawić się dotąd ażby był pewny własnej śmierci swojej. Usłyszawszy tę odpowiedź, z wielkim frasunkiem książę rozkazał, aby wszytkie chrześcijany męskiej płci ode trzech lat wyżej mające, którzy by nie chcieli opuszczać swego zakonu, a wyznać onego japońskiego, byli pościnani, i przerzeczony ociec Sotelo z kaznodziejami<ref target="n-45-16" type="noteAnchor">16</ref> wiary świętej chrześcijańskiej, którzy z nim przestawali, aby byli w ogniu żywo spaleni. Rozkazawszy wykonać sentencją 16. sierpnia, wywiedziono na plac zarazem ku ścinaniu ośm starszych nad bractwem i ucięto drugim 17 głowy, po tym 14 żołnierzom, a na ostatek przyszło rozkazanie, aby męczono ojca Sotela i kaznodzieje jego, które miał przy sobie. I gdy już nagotowano dobry stos drew i ludzi, stała wielka kupa patrzącą na on okrutny, który miał być uczynek, przybieżał jeden goniec z listem króla wokseńskiego, który nierychło do-
+<pb n="46" facs="jpg/0066-2023-1183902.jpg"/>wiedział się o tym przypadku, prosząc książęcia brata, zięcia swego, aby mu uczynił tę łaskę, żeby ojca Sotela odesłał zdrowo do królestwa wokseńskiego, abowiem już był czas wychodzeniu nawom<ref target="n-46-17" type="noteAnchor">17</ref> i temu naznaczonemu spólnemu poselstwu, przy tym żeby nie używał takiej surowości z chrześcijany, iż to</p>
+                <note type="argument" place="margin">Opatrzność Boska wielka</note>
+                <p> był naród spokojny i dobry. Książę jako jedno list przeczytał, wolnego uczynił ojca, kazawszy tylko pościnać same kaznodzieje, a drugie, którzy zostawali w więzieniu, kazał wolno puścić. A Pan Bóg onegoż dnia przepuścił był, którego mieli być z ojcem kaznodzieje popaleni, iż powadzili się<ref target="n-46-18" type="noteAnchor">18</ref> trzej bońcy z pewnemi ludźmi świeckimi. Zostawszy zabici trzej bońcowie<ref target="n-46-19" type="noteAnchor">19</ref> w swym kościele własnym i z nimi drudzy inszy<ref target="n-46-20" type="noteAnchor">20</ref>, a iż przypadek był uważenia<ref target="n-46-21" type="noteAnchor">21</ref> godny, wyszedł urząd miejski uznać on występek i ono zabójstwo i dla tego zaniechali wykonać skazanego dekretu nad ojcem. Przypadło i co więcej, iż umarła jedyna córka starszego nad radą w tymże książęcym mieście i urząd bawić się musiał kilka dni na eksequiach<ref target="n-46-22" type="noteAnchor">22</ref>, przez które przeszkody miał czas król wokseński wysłać gońca swego, jako się dowiedział o wyroku śmierci okrutnej przeciwko ojcu Sotelowi.</p>
+            </div>
+      <div type="1-14"> <pb n="46" facs="jpg/0066-2023-1183902.jpg"/>
+        <head>Jako po wyzwoleniu ociec Sotelo powrócił się znowu do królestwa wokseńskiego i jako mu się tam powiodło.</head>
+        <head type="sub"> ROZDZIAŁ XIV</head>
+        <p n="1">Tegoż dnia, gdy wypuszczono ojca Sotela, co było po sześci dniach, jako goniec od króla wokseńskiego bieżał; przybieżał też drugi wysłany od Boga goniec do miasta Jendo<ref target="n-46-1" type="noteAnchor">1</ref>, ociec Ignacy Societatis Jesu<ref target="n-46-2" type="noteAnchor">2</ref>, kaznodzieja gorący tegoż zakonu świętego:
+        <pb n="47" facs="jpg/0067-2023-1183903.jpg"/>puściwszy się z Nakawi<ref target="n-47-3" type="noteAnchor">3</ref> miasta chrześcijańskiego, kędy rezyduje biskup i ojcowie tegoż zakonu, wszytkę po japońsku ogoliwszy głowę i szatami odziany japońskimi, dla ratowania przerzeczonego ojca Sotela, mając tę wiadomość, iż był na gardło do więzienia wsadzony ze wszytkimi chrześcijany dla przepowiadania i wyznania wiary ś&lt;więtej&gt; Chrystusowej. A uszedszy półtora tysiąca mil japońskich, chciał Pan Bóg, aby przyszedł dwie godzinie potym, kiedy już wypuszczono było ojca Sotela, do którego zarazem przyszto<ref target="n-47-4" type="noteAnchor">4</ref> z listami od Rady Książęcej, do królestwa wokseńskiego, w drogę go wyprawiać i listy mu oddając, co było dwudziestego piątego września.</p> <p n="2"> Będąc król wokseński barzo frasowliwy i wątpliwy, aby listy jego na czas przybyły i że już podobno ojca Sotela umęczonego zastały, a tak już biorąc inszą radę przedsię, dowiedziawszy się, że przybył do dworu jego jeden zakonnik z tegoż zakonu Franciszka ś&lt;więtego&gt;, na imię brat Diego Ibagnes<ref target="n-47-5" type="noteAnchor">5</ref>, który był przyszedł dla tego, aby wsiadł w nawę onę Mazamunowę<ref target="n-47-6" type="noteAnchor">6</ref> do Nowej Hiszpanijej w drogę, kazał go zawołać i rzekł mu: <q>Aczkolwiek książę ojca Sotela spalił i pozabijał chrześcijany w swoim królestwie, ja jednak pragnę sobie tego, aby ojcowie Franciszka ś&lt;więtego&gt; przyszli do państwa mego i żeby przepowiadali Ewangelią świętą i nawrócili do wiary wszytko królestwo moje; i dla tego radbym wysłał w poselstwie do Ojca Ś&lt;więtego&gt;, prosząc go o jaką liczbę zakonników i o insze rzeczy ku temu potrzebne</q>. Dołożył, jeśliby się temu ojcu podobało, aby jachał z jego posłami, przynamniej do Nowej Hiszpanijej, gdzieby potym króla katolickiego imieniem jego prosił, aby od niego do Rzymu posłał, jako by mu się nalepiej widziało. Ociec Diego Ibagnes odpowiedział, iż barzo rad chętliwie przyjmował to poselstwo; i tak w jednym punkcie rozkazał potrzeby nagotować<ref target="n-47-7" type="noteAnchor">7</ref> w drogę, które zaraz stanęły. Nie przeszły dwie godzinie potym, jako brat Diego z pałacu wyszedł, alić bieży goniec po-
+        <pb n="48" facs="jpg/0068-2023-1183904.jpg"/>cztą<ref target="n-48-8" type="noteAnchor">8</ref>, dając znać, iż książę darował zdrowiem i żywotem ojca Sotela, a iż barzo prędko idzie do królestwa; z której nowiny tak dobrej uweselił się tak wysoce król, iż też na okazanie swojej radości triumfy i gonitwy rozmaite odprawować kazał. A wiedząc, iż już przyjeżdżał do swego królestwa, rozkazał, aby mu służono i podejmowano przez wszytkę drogę, naznaczywszy mu barzo piękne stanie<ref target="n-48-9" type="noteAnchor">9</ref>, przystawy dawszy i stół barzo kosztowny królewski. Jeno zsiadł, zaraz go kazał prosić na pałac, gdzie przyszli ociec Sotelo i z ojcem Ignacym, który onego dnia dopiero był ogolił koronę<ref target="n-48-10" type="noteAnchor">10</ref> i wdział swój zakonniczy habit, zrzuciwszy japoński z rozkazania królewskiego, który jeszcze jakoby nie dowierzał, aby ociec Sotelo miał żyć. Jedli tedy z królem oni dwaj zakonnicy, wielce od niego u stołu będąc szanowani – i zaczęli mówić o drodze; a król o przedsięwzięciu swoim mówiąc, iż to była ustawiczna myśl tego, aby wszystko królestwo jego w chrześcijany się przemieniło. Drugiego dnia potym zawołał ojca Luizego i pana Filipa Franciszka, którego na ten czas zwano Rokuyenion Faksekura<ref target="n-48-11" type="noteAnchor">11</ref>, i tak tajemnie umyślnie rozmawiał z nimi o swoich intencyjach i jako chciał obudwu posłać posłami do króla hiszpańskiego i do papieża biskupa rzymskiego; a przywodząc to do skutku, wysłał swoje sekretarze do mieszkania ojcowskiego; i przez ręce ich oddał listy i ekspedycyje, które były oddawane od nich z wielką ceremonią i jawnym wszytkich weselem. I aczkolwiek radni panowie mówili królowi, jako śmiał ufać majestat królewski jego swoich pieczęci i swojej dostojności, i onej nawy z tak drogimi klejnotami, i tak wielu zacnych osób z królestwa swego jednemu mnichowi, którego nie znał, kto i skąd był, i nie wiedział, jeśli abo król katolicki, abo papież najdują się na świecie – to i co inszego ku temu mówili; odpowiedział im król temi słowy, iż nie jest rzecz podobna, aby ten człowiek miał kiedy oszukać i skłamać
+        <pb n="49" facs="jpg/0069-2023-1183905.jpg"/>który tak wiele wiedział rzeczy niebieskich i tak pogardzał rzeczy tego świata. A chcąc król ukontentować wszytkich, puścił się polując aż do portu, w którym czekała nawa: a wszedszy wewnątrz w onę nawę, aby ją oglądał, kazał zwołać wszytkich Hiszpanów starszych nad nawą i robotników, którzy wiosłami robili, i rzekł im: Tego okrętu nie zbudowałem ku inszej potrzebie ani dla czego inszego, jedno abyście w nim przywieźli do królestwa mego zakon boży<ref target="n-49-12" type="noteAnchor">12</ref> i te ojce duchowne, którzy u was zbywają; pojedziecie, ufając w Bogu, który wam da dobrą y szczęśliwą drogę; we wszytkim słuchać bę</p>
+                <note type="ref" place="margin">Dobra intencya</note>
+                <p>dziecie ojca Luigiego Sotela, cokolwiek wam rozkaże; a gdy przyjadą ojcowie do królestwa mego, rozkażę, aby murowano kościoły; zarazem będziemy wszyscy chrześcijany. Też słowa powtórzył i do swoich, a dawszy cedułę królewską, w której toż było, co król usty rozkazował, weseleli się wszyscy słowy królewskimi i onym wielkim sercem jego, które pełno chęci było na rozkrzewienie wiary Kościoła Bożego.</p>
+            </div>
+      <div type="1-15">
+                <pb n="49" facs="jpg/0069-2023-1183905.jpg"/>
+        <head>O rozmnożeniu<ref target="n-49-1" type="noteAnchor">1</ref>  chrześcijaństwa w królestwie wokseńskim za przyszciem ojca Sotela i jako się na morze puścił w legacyjej do Hiszpanijej<ref target="n-49-2" type="noteAnchor">2</ref>  i do Rzymu.</head>
+        <head type="sub">ROZDZIAŁ XV</head>
+        <p n="1">Aczkolwiek ociec Sotelo już się był odprawił w drogę z wielką prędkością i naleganiem, aby nie mieszkając<ref target="n-49-3" type="noteAnchor">3</ref>  jachał, jednak żadną miarą być nie mogło; musiał się zatrzymać więcej niż dni dwadzieścia, słuchając spowiedzi onych wszytkich chrześcijan, którzy jako owieczki<ref target="n-49-4" type="noteAnchor">4</ref>  pragnące biegli do źrzódła słowa miłego Boga – jedni z spowiedziami, drudzy ze chrztami, oycowie,
+        <pb n="50" facs="jpg/0070-2023-1183906.jpg"/>matki, synowie, bracia, przyjaciele, pokrewni, jeden pomagając drugiemu. Ociec Sotelo spowiedzi słuchał i kazaniem karmił, a ociec Ignacy nieprzeliczoną rzecz ludzi chrzcił. Dusz niepodobny pożytek odbierali i owoc w tym tak krótkim czasie w winnicy Zbawiciela<ref target="n-50-5" type="noteAnchor">5</ref>  naszego, tak iż ledwie mogli spać i w nocy, i we dnie całą jednę godzinę nieprzerobieni ojcowie. Naleźli<ref target="n-50-6" type="noteAnchor">6</ref>  już wystawione dwa kościoły w mieście Ksandai,<ref target="n-50-7" type="noteAnchor">7</ref>  kędy król stolicę swoję naprzedniejszą ma, drugie kościoły na rozmaitych miejscach, jeden w Kuranokamie,<ref target="n-50-8" type="noteAnchor">8</ref>  drugi w Gocie,<ref target="n-50-9" type="noteAnchor">9</ref>  trzeci w Akwicie,<ref target="n-50-10" type="noteAnchor">10</ref>  czwarty w Szemboku,<ref target="n-50-11" type="noteAnchor">11</ref>  piąty w Nabukorcie,<ref target="n-50-12" type="noteAnchor">12</ref>  zbudowane od onych, które był ociec Sotelo z Japonu posłał Japończyków, kaznodziei wiary świętej uczących, kosztem chrześcijańskim. Wszyscy ci chrześcijanie byli tak dobrze wyćwiczeni i w rzeczy około wiary ś&lt;więtej&gt; tak barzo wprawieni, i takie obyczaje chrześcijańskie mający, iż się tak widziało, jakoby między sobą mieli wiele ojców pobożnych i mistrzów nie lada jakich; tak skromni w mowie, tak pokorni w żywocie, tak w sumnieniu czyści, iż wzbudzali wielkie nabożeństwo<ref target="n-50-13" type="noteAnchor">13</ref>  i owszem zawstydzenie sumnienia czynili tak dziwnemi słowy, tak dzielnemi chrześcijańskimi cnotami. Przypatrz się temu dziecięciu we 13 lat, jeśli chcesz, z jednego wieku razem poznasz; chciało<note type="argument" place="margin">Dziecię we 13 lat</note> być chrześcijaninem, a był synowcem  tegoż<ref target="n-50-14" type="noteAnchor">14</ref> wokseńskiego króla, synem starszego brata królewskiego; miało to dziecię sługi ojca swego i drugie dozorce<ref target="n-50-15" type="noteAnchor">15</ref>  swoje wszytko chrześcijany, którzy go (jako to bywa) nauczyli pewnych rzeczy wiary chrześcijańskiej. Chęci tej dowiedziała się babka jego, matka królewska, która była wielka bałwochwalnica,<ref target="n-50-16" type="noteAnchor">16</ref>  a chociaż on młodzieniaszek nie był jeszcze chrzczony, jednak już posty zachowywał i biczował się często. A gdy mu rozważała babka, aby nie był chrześcijaninem, iż chrześcijanie mają zakon twardy i niepodobna rzecz jemu taki zakon wytrwać, odpowiedział młodzieńczyk: Powiedz mi pani babko, co takiego czynią chrześcijanie? A ona go chcąc zastraszyć zakonem chrześcijańskim, poczęła mu powiadać, iż chrześcia-
+        <pb n="51" facs="jpg/0071-2023-1183907.jpg"/>nie A ona go chcąc zastraszyć zakonem chrześcijańskim, po<note type="argument" place="margin">Babia rada zła</note>częła mu powiadać, iż chrześcijanie trwają na modlitwie począwszy od północy aż do białego dnia ustawicznie klęcząc, a gdy przyjdzie pół zimy, kiedy bywa nazimniej przededniem, wpuszczają się w kocieł zimnej barzo wody i tak w nim nadzy stoją; mięsa nie jedzą i to, co jedzą, raz tylko na dzień jedzą, wołają do tego pospólstwa, aby ich biczami siekli, dotąd aż krew z ciała pociecze. To usłyszało dziecię od niej, co czynili niektórzy chrześcijanie dla swego osobnego nabożeństwa w quadragesimę,<ref target="n-51-17" type="noteAnchor">17</ref>  i toż też ani mniej, ani więcej czyniło na osobności, ćwicząc się ustawicznie w tym więcej niż przez trzy miesiące, próbując się, jeśli mógł znieść i wytrwać zakon chrześcijański. Z czego fukając go ociec z takich postów i takich dyscyplin, chciał go mieć w więzieniu. Co sprawiło, iż matka i babka, i ociec, wszytek dom i słudzy, widząc iż to więzienie nic młodzieniaszkowi onej ostrości ćwiczenia nie wzięło, zawołali chrzest ś&lt;twięty&gt; rozdającego, a słuchając nauki chrześcijańskiej, przygotowali się na przyjęcie sakramentowe wielebnego chrztu świętego, kiedy przybył ociec Sotelo.</p> <p n="2">Wiele inszych przypadkow, abo raczej przykładów dziwnych, nie wspomina się dla wstęsknienia<ref target="n-51-18" type="noteAnchor">18</ref>  czytelnikowi i nie rozszerzenia dyszkursu tego, dosyć rozumiejąc na tym, co się krótko rzekło.  Zostawiwszy tedy w Królestwie Wokseńskim ociec Sotelo pięć kaznodziejów abo katechistów, aby się po królestwie onym rozdzielili, i pisanie<ref target="n-51-19" type="noteAnchor">19</ref>  zostawiwszy do jednego zakonnika swego, starszego nad drugimi, aby tam jako naprędzej wysyłał jednego z kapłanów, a pocieszywszy już i spowiedzią, i kazaniem, i rozmową wszytko chrześcijaństwo, które się tam było zbiegło z rozmaitych prowincyj, idąc cztery, sześć i ośm dni drudzy ustawicznie. Wziąwszy licencją od króla, ze łzami i żałością wsiadł w nawę<ref target="n-51-20" type="noteAnchor">20</ref>  z przerzeczonym<ref target="n-51-21" type="noteAnchor">21</ref>  ojcem Ignacym Societatis Jesu<ref target="n-51-22" type="noteAnchor">22</ref>  i bratem Diegą, a z nimi spólnie królewski
+        <pb n="52" facs="jpg/0072-2023-1183908.jpg"/>poseł przerzeczony ze stem i piąciądziesiąt Japończyków to<note type="argument" place="margin">Wyiazd w droge</note>warzystwa i z sługami. I tak od dwudziestego ósmego października w roku tysiącznym sześćsetnym trzynastym, po wielkich nawałnościach<ref target="n-52-23" type="noteAnchor">23</ref>  i niebezpieczeństwach, przyciągnęli do Nowej Hiszpanijej. A przejeżdżając sześć mil jedno jezioro, wysiedli w porcie akapulskim<ref target="n-52-24" type="noteAnchor">24</ref>  z nawy dwudziestego piątego stycznia roku tysiącznego sześćsetnego czternastego.</p>
+            </div>
+    </body>
+<back>
+      <div type="notes">
+        <note n="1" xml:id="n-1-1" type="footnote">
+         Scipione Amati (? – ok. 1654) – włoski prawnik, wysłannik papieski i pisarz.
+        </note>
+        <note n="2" xml:id="n-1-2" type="footnote">
+          1 Tm 2, 4–6.
+        </note>
+        <note n="3" xml:id="n-1-3" type="footnote">
+          zamulony – zmącony, skażony.
+        </note>
+        <note n="4" xml:id="n-1-4" type="footnote">
+          Ps IV, 7.
+        </note>
+        <note n="5" xml:id="n-1-5" type="footnote">
+          synderesis – prasumienie, syndereza. Wrodzona sprawność, z której ma wynikać działanie sumienia, umożliwiająca poznanie praw natury i stosowania ich.
+        </note>
+        <note n="6" xml:id="n-1-6" type="footnote">
+          nadobnie – trafnie, zrozumiale, w przekonujący sposób.
+        </note>
+        <note n="7" xml:id="n-2-1" type="footnote">
+          słowa z Wyznań (1.1) św. Augustyna z Hippony.
+        </note>
+        <note n="8" xml:id="n-2-2" type="footnote">
+          Mdr 11, 25.
+        </note>
+        <note n="9" xml:id="n-2-3" type="footnote">
+          nalazszy dyspozycyją – znalawszy skłonność, usposobienie.
+        </note>
+        <note n="10" xml:id="n-2-4" type="footnote">
+          J 14, 6.
+        </note>
+        <note n="11" xml:id="n-2-5" type="footnote">
+          Ps CXV, 16.
+        </note>
+        <note n="12" xml:id="n-2-6" type="footnote">
+          Ps CXV, 8.
+        </note>
+        <note n="13" xml:id="n-2-7" type="footnote">
+          pojedynkiem – pojedynczo, indywidualnie.
+        </note>
+        <note n="14" xml:id="n-2-8" type="footnote">
+          wysługi – łaski.
+        </note>
+        <note n="15" xml:id="n-3-1" type="footnote">
+          1 Kor 1, 27–28.
+        </note>
+        <note n="16" xml:id="n-3-2" type="footnote">
+          pogodnego – sposobnego, właściwego.
+        </note>
+        <note n="17" xml:id="n-3-3" type="footnote">
+          Mt 20, 1–7.
+        </note>
+        <note n="18" xml:id="n-3-4" type="footnote">
+          niesprawionej – w której jeszcze nie wykonano pracy..
+        </note>
+        <note n="19" xml:id="n-3-5" type="footnote">
+          gorące – prędcy, gorliwi.
+        </note>
+        <note n="20" xml:id="n-3-6" type="footnote">
+          Patres Societatis Jesu – jezuici.
+        </note>
+        <note n="21" xml:id="n-3-7" type="footnote">
+          discalców – od łac. discalciatus (przym.) oznaczającego „bosy”.
+        </note>
+        <note n="22" xml:id="n-3-8" type="footnote">
+          wyrazili rzeczą samą – pokazali czynem.
+        </note>
+        <note n="23" xml:id="n-3-9" type="footnote">
+          professyja – publiczne wyznanie wiary, ślub publiczny włączający do zakonu (też powołanie, stan, rzemiosło).
+        </note>
+        <note n="24" xml:id="n-3-10" type="footnote">
+          przyjęmnością – pojętnością, wdzięcznością.
+        </note>
+        <note n="25" xml:id="n-3-11" type="footnote">
+          darzliwością – nieszczęściem, poświęceniem.
+        </note>
+        <note n="26" xml:id="n-4-1" type="footnote">
+          dowcipni – rozumni, bystrzy, zdolni.
+        </note>
+        <note n="27" xml:id="n-4-2" type="footnote">
+          przystojnemi – odpowiednimi, właściwymi.
+        </note>
+        <note n="28" xml:id="n-4-3" type="footnote">
+          przerzeczeni – wyżej wymienieni, wspomniani.
+        </note>
+        <note n="29" xml:id="n-4-4" type="footnote">
+          zakonu Bożego – prawo, nakaz (szczególnie religijny), zasady moralne, przykazania.
+        </note>
+        <note n="30" xml:id="n-4-5" type="footnote">
+          stateczności – miłość (jako cnota chrześcijańska), przywiązanie, oddanie.
+        </note>
+        <note n="31" xml:id="n-4-6" type="footnote">
+          nie uchodząc – nie wypada, nie jest słuszne, właściwe.
+        </note>
+        <note n="32" xml:id="n-4-7" type="footnote">
+          tamecznych – tamtejszych.
+        </note>
+        <note n="33" xml:id="n-4-8" type="footnote">
+          bł. Ludwik Sotelo (1574–1624) – Należało do Zakonu Braci Mniejszych. Jako biskup nominat zginął śmiercią męczeńską w Japonii. W 1600 r. udał się jako misjonarz na Filipiny, a następnie do Japonii, gdzie pełnił również misję dyplomatyczną.
+        </note>
+        <note n="34" xml:id="n-4-9" type="footnote">
+          Siwiglia – Sewilla, miasto w południowej Hiszpanii, stolica regionu Andaluzja.
+        </note>
+        <note n="35" xml:id="n-4-10" type="footnote">
+          legacyjej – misji poselskiej, poselstwa.
+        </note>
+        <note n="36" xml:id="n-4-11" type="footnote">
+          właśc. Masamune Date (1567–1636) – japoński feudał żyjący w okresie Azuchi-Momoyama i wczesnym okresie Edo, spadkobierca długiej linii potężnych daimyō z rejonu Tōhoku, założyciel miasta Sendai, zręczny taktyk.
+        </note>
+        <note n="37" xml:id="n-4-12" type="footnote">
+          właśc. Ōshū – miasto w Japonii, na wyspie Honsiu. Włoscy misjonarze jezuiccy uważali je za królestwo, które nazwali „Voxu”. Obszar ten był pod rządami Date Masamune.
+        </note>
+        <note n="38" xml:id="n-4-13" type="footnote">
+          właśc. Camillo Borghese; (1552–1621) – włoski duchowny katolicki, 233. papież w okresie od 16 maja 1605 do 28 stycznia 1621.
+        </note>
+        <note n="39" xml:id="n-4-14" type="footnote">
+          powinowatych – krewnych.
+        </note>
+        <note n="40" xml:id="n-4-15" type="footnote">
+          kawallerów – rycerzy, mężczyzn znakomitego rodu.
+        </note>
+        <note n="41" xml:id="n-4-16" type="footnote">
+          przerzeczonej – wyżej wymienionej.
+        </note>
+        <note n="42" xml:id="n-4-17" type="footnote">
+          snadź – przypadkiem, może.
+        </note>
+        <note n="43" xml:id="n-5-1" type="footnote">
+          gościńca – sposóbu osiągnięcia czegoś.
+        </note>
+        <note n="44" xml:id="n-5-2" type="footnote">
+          nowej Hiszpanijej – Meksyku.
+        </note>
+        <note n="45" xml:id="n-5-3" type="footnote">
+          wicereksa – wicekróla, władcy Wicekrólestwa Nowej Hiszpanii, który był mianowany przez królów Hiszpanii.
+        </note>
+        <note n="46" xml:id="n-5-4" type="footnote">
+          prawd. Manuel Alonso de Zúñiga Acevedo y Fonseca (1586–1653), VI hrabia Monterrey, komandor Orderu Santiago, członek Rady Stanu króla Filipa IV, ambasador w Stolicy Apostolskiej.
+        </note>
+        <note n="47" xml:id="n-5-5" type="footnote">
+          Francisco de Tello de Guzmán – hiszpański gubernator na Filipinach od 1596 do 1603 roku.
+        </note>
+        <note n="48" xml:id="n-5-6" type="footnote">
+          Order Świętego Jakuba od Miecza, również Order Rycerski św. Jakuba – zakon rycerski utworzony w 1170 na bazie bractwa rycerskiego, skupiającego rycerzy broniących pątników zmierzających do Santiago de Compostela.
+        </note>
+        <note n="49" xml:id="n-5-7" type="footnote">
+          rzeczony – wzmiankowany, przytoczony, wyżej wymieniony.
+        </note>
+        <note n="50" xml:id="n-5-8" type="footnote">
+          właśc. Hideyoshi Toyotomi – japoński przywódca polityczny i militarny z okresu Azuchi-Momoyama. Jedna z najważniejszych postaci w historii tego kraju. W czasach jego rządów prześladowano wyznawców wiary chrześcijańskiej, na podstawie wydanego w 1587 roku dekretu zabronił on praktykowania chrześcijaństwa.
+        </note>
+        <note n="51" xml:id="n-5-9" type="footnote">
+          naw – okrętów, łódzi.
+        </note>
+        <note n="52" xml:id="n-5-10" type="footnote">
+          Pedro Bravo de Acuña – hiszpański oficer wojskowy i urzędnik kolonialnym w Nowym Świecie i na Filipinach. Od 1602 do 1606 był jedenastym gubernatorem Filipin.
+        </note>
+        <note n="53" xml:id="n-5-11" type="footnote">
+          Suwerenny Rycerski Zakon Szpitalników Świętego Jana, z Jerozolimy, z Rodos i z Malty (pot. szpitalnicy, joannici, kawalerowie maltańscy) – katolicki zakon rycerski.
+        </note>
+        <note n="54" xml:id="n-6-1" type="footnote">
+          gubernatora di Manila – gubernator hiszpański urzędujący w mieście Manila na Filipinach.
+        </note>
+        <note n="55" xml:id="n-6-2" type="footnote">
+          hołdownikom – przen. osobom oddanym komuś lub czemuś, miłośnikom.
+        </note>
+        <note n="56" xml:id="n-6-3" type="footnote">
+          pysznym – wspaniałym, godnym podziwu.
+        </note>
+        <note n="57" xml:id="n-6-4" type="footnote">
+          in principiis – na początku, na rozpoczęcie.
+        </note>
+        <note n="58" xml:id="n-6-5" type="footnote">
+          prawdzie – zgodnie z rzeczywistością.
+        </note>
+        <note n="59" xml:id="n-7-1" type="footnote">
+          konwent – klasztor, dom zakonny.
+        </note>
+        <note n="60" xml:id="n-7-2" type="footnote">
+          Meak – średniowieczna nazwa dzisiejszego Kyoto.
+        </note>
+        <note n="61" xml:id="n-7-3" type="footnote">
+          Fuksyna – Fushimi.
+        </note>
+        <note n="62" xml:id="n-7-4" type="footnote">
+          Wosaku – wł. Vosaka – Osaka.
+        </note>
+        <note n="63" xml:id="n-7-5" type="footnote">
+          Sakai – miasto znajdujące się w Japonii.
+        </note>
+        <note n="64" xml:id="n-7-6" type="footnote">
+          Mowa jest o niewielkiej ilości osób przychodzących na słuchanie nauk Kościoła.
+        </note>
+        <note n="65" xml:id="n-7-7" type="footnote">
+          która się traktuje – o której się mówi.
+        </note>
+        <note n="66" xml:id="n-8-1" type="footnote">
+          insuła – wyspa.
+        </note>
+        <note n="67" xml:id="n-8-2" type="footnote">
+          Evangelisate pauperibus et curate infirmos, qui apud illos sunt – połączenie dwóch zniekształconych fragmentów z Ewangelii Łukasza: 4:18 („abym ubogim niósł dobrą nowinę”) i 10:9 („uzdrawiajcie chorych, którzy tam są”).
+        </note>
+        <note n="68" xml:id="n-9-1" type="footnote">
+          dysputacją z królem z Quinokonu zwanym Assanodaibut – Quinokon – Wakayama, jap. Wakayama-shi, Assanodaibut - Asano Yoshinaga, japoński samuraj, daimyo z okresu Edo.
+        </note>
+        <note n="69" xml:id="n-9-2" type="footnote">
+          kolera – żółć, złość.
+        </note>
+        <note n="70" xml:id="n-10-1" type="footnote">
+          Bońcy – buddyjscy duchowni w Chinach i Japonii.
+        </note>
+        <note n="71" xml:id="n-10-2" type="footnote">
+          di Koia – oryg. di Coya – Koya w prefekturze Wakayama.
+        </note>
+         <note n="1" xml:id="n-12-1" target="n-12-1">
+          Królestwo wokseńskie – we włoskim oryginale Amato Scipione transkrybuje nazwę królestwa jako Oxu. Jest to prowincja znana także jako Ōshū bądź Michinoku, w której Ojciec Sotelo prowadził misje ewangelizacyjne. Królem prowincji był wtedy Date Masamune.
+        </note>
+        <note n="2" xml:id="n-12-2" target="n-12-2">
+          Nifon – transkrypcja nazwy Japonii, która pojawia się w słowniku japońsko-portugalskim misjonarzy portugalskich z XVII wieku.
+        </note>
+        <note n="3" xml:id="n-12-3" target="n-12-3">
+          Suru – oryg. Sur – wł. Sud – południe.
+        </note>
+        <note n="4" xml:id="n-13-4" target="n-13-4">
+          Cucuau – oryg. Zuzuqui – jap. suzuki – okoń.
+        </note>
+        <note n="1" xml:id="n-14-1" target="n-14-1">
+          Dair – jap. Dairi – termin określający cesarza.
+        </note>
+        <note n="2" xml:id="n-14-2" target="n-14-2">
+          wicereks – wicekról
+        </note>
+        <note n="3" xml:id="n-14-3" target="n-14-3">
+          Findefira – jap. Hidehira Fujiwara – trzeci władca północnej Fujiwary w prowincji Mutsu w Japonii, żył w latach 1122–1187.
+        </note>
+        <note n="4" xml:id="n-14-4" target="n-14-4">
+          Kungowie – jap. Kuge – japońska arystokracja dworska.
+        </note>
+                <note n="5" xml:id="n-15-5" target="n-15-5">
+          Konojendono – jap. Konoe-dono – nazwa domu japońskiej rodziny arystokratycznej, która powiązana jest z domem Hokke, a co za tym idzie z klanem Fujiwara.
+        </note>
+                <note n="6" xml:id="n-15-6" target="n-15-6">
+          rebelizował – buntował się
+        </note>
+                <note n="7" xml:id="n-15-7" target="n-15-7">
+          nie kontentując się panowaniem tylko onych prowincyj – nie uważając za wystarczające panowania tylko nad onymi prowincjami
+        </note>
+                <note n="8" xml:id="n-15-8" target="n-15-8">
+          Jorytomowo – zob. przyp.<ref target="n-15-10">10</ref>
+                    
+        </note>
+                <note n="9" xml:id="n-15-9" target="n-15-9">
+          z tą kondycyją – pod tym warunkiem
+        </note>
+                <note n="10" xml:id="n-15-10" target="n-15-10">
+          Jorytomo – jap. Yoritomo – siódmy siogun w historii Japonii, żył w latach 1147–1199.
+        </note>
+                <note n="11" xml:id="n-15-11" target="n-15-11">
+          Uksiuacandono – jap. Ushiwaka-dono – nie udało się ustalić.
+        </note>
+                <note n="12" xml:id="n-15-12" target="n-15-12">
+          wesele – radość
+        </note>
+                <note n="13" xml:id="n-16-13" target="n-16-13">
+          imo – obok
+        </note>
+                <note n="14" xml:id="n-16-14" target="n-16-14">
+          na ostatek – na koniec
+        </note>
+                <note n="15" xml:id="n-16-15" target="n-16-15">
+          z nieobaczku – przypadkowo
+        </note>
+                <note n="16" xml:id="n-16-16" target="n-16-16">
+          Meaku – Meako – obecnie Kioto, dawna stolica Japonii.
+        </note>
+                <note n="17" xml:id="n-16-17" target="n-16-17">
+          intrata – dochód
+        </note>
+                <note n="18" xml:id="n-16-18" target="n-16-18">
+          Iamacangue Ciuscio – jap. Yamakage Chusho – nie udało się ustalić.
+        </note>
+                <note n="19" xml:id="n-16-19" target="n-16-19">
+          possessyja – dzierżawiony majątek
+        </note>
+                <note n="20" xml:id="n-17-20" target="n-17-20">
+          Idate – Date Masamune – japoński feudał, żył w latach 1567–1636.
+        </note>
+<note n="1" xml:id="n-17-1" target="n-17-1">
+          Idate Mazamune – Date Masamune; japoński feudał żyjący w okresie Azuchi-Momoyama i wczesnym okresie Edo (1567–1636).
+        </note>
+        <note n="2" xml:id="n-17-2" target="n-17-2">
+          przedni – pierwszorzędny, wyborny, doskonały
+        </note>
+        <note n="3" xml:id="n-17-3" target="n-17-3">
+          królestwo wokseńskie – terytorium fełdała Masamune; obszar obejmujący dzisiejszą prefekturę Fukushima i południowe rejony prefektur Yamagata i Miyagi.
+        </note>
+        <note n="4" xml:id="n-17-4" target="n-17-4">
+          Japon – Japonia
+        </note>
+        <note n="5" xml:id="n-17-5" target="n-17-5">
+        utarczki – podjazdowe i dorywcze starcie z nieprzyjacielem, potyczki
+        </note>
+        <note n="6" xml:id="n-17-6" target="n-17-6">
+          harce – początek bitwy, pierwsza utarczka pojedynczych jeźdźców
+        </note>
+        <note n="7" xml:id="n-18-7" target="n-18-7">
+          czeladź – służba domowa
+        </note>
+        <note n="8" xml:id="n-18-8" target="n-18-8">
+          Meaku – Meako, miasto w Japonii
+        </note>
+        <note n="9" xml:id="n-18-9" target="n-18-9">
+          officyjaliste – urzędnik sądowy
+        </note>
+        <note n="10" xml:id="n-18-10" target="n-18-10">
+          spezy – koszty, nakłady, wydatki
+        </note>
+        <note n="11" xml:id="n-18-11" target="n-18-11">
+          insze – inne
+        </note>
+        <note n="12" xml:id="n-18-12" target="n-18-12">
+          ludzie posiłkowne – ludzie wspierający posiłkami, dający posiłki, przybywający z pomocą
+        </note>
+                <note n="13" xml:id="n-18-13" target="n-18-13">
+          ochędostwo – porządek, przyozdobienie, wspaniałość
+        </note>
+        <note n="14" xml:id="n-18-14" target="n-18-14">
+          intrata – dochód, przychód, zysk czysty (z majątku nieruchomego)
+        </note>
+        <note n="15" xml:id="n-18-15" target="n-18-15">
+          Dairowa – miasto w Japonii
+        </note>
+        <note n="16" xml:id="n-19-16" target="n-19-16">
+          czynić assystencyją – asystować, towarzyszyć
+        </note>
+        <note n="17" xml:id="n-19-17" target="n-19-17">
+          Canguacatzu, di Zinano – nie udało się ustalić.
+        </note>
+        <note n="18" xml:id="n-19-18" target="n-19-18">
+          Catzu Yafataquendono, di Saraque – nie udało się ustalić
+        </note>
+        <note n="19" xml:id="n-19-19" target="n-19-19">
+          confederowany – związany w konfederacji, sprzymierzony w pewnym celu
+        </note>
+        <note n="20" xml:id="n-19-20" target="n-19-20">
+          przerzeczony – wyżej wspomniany, wzmiankowany
+        </note>
+        <note n="21" xml:id="n-19-21" target="n-19-21">
+          fawor – łaska, przychylność, wzgląd, protekcja, poparcie
+        </note>
+        <note n="22" xml:id="n-19-22" target="n-19-22">
+          Zorung – miasto w Japonii
+        </note>
+        <note n="23" xml:id="n-19-23" target="n-19-23">
+          Taikosama – Hidejoszi; następca Nobunagi i jego kontynuator w planach zaprowadzenia spokoju w Japonii.
+        </note>
+        <note n="24" xml:id="n-19-24" target="n-19-24">
+          Minamotono Ikas – ówczesny cesarz japoński.
+        </note>
+        <note n="25" xml:id="n-19-25" target="n-19-25">
+          ojciec Luigi Sotelo – Luis Sotelo; hiszpański franciszkanin, misjonarz w Japonii, męczennik chrześcijański i błogosławiony Kościoła rzymskokatolickiego (1574–1615).
+        </note>
+        <note n="26" xml:id="n-20-26" target="n-20-26">
+          Fuxina – miasto w Japonii.
+        </note>
+        <note n="27" xml:id="n-20-27" target="n-20-27">
+          oddawał – powierzał
+        </note>
+ <note n="1" xml:id="n-20-1" type="footnote">
+                    Luigi Sotelo – Ludwik Sotelo, hiszpański biskup, franciszkanin, misjonarz na Filipinach i w Japonii, męczennik chrześcijański i błogosławiony Kościoła rzymskokatolickiego
+                </note>
+       <note n="2" xml:id="n-20-2" type="footnote">
+                    Ōshū lub Mutsu, prowincja w północno-wschodniej części japońskiej wyspy Honsiu, obecnie nazwana jest Tōhoku
+                </note>
+       <note n="3" xml:id="n-20-3" type="footnote">
+                    Jendo – Edo, Yedo, w 1868r. miasto zmieniło nazwę na Tokioo
+                </note>
+       <note n="4" xml:id="n-20-4" type="footnote">
+                    Idate Mazamunne – Date Masamune, japoński feudał żyjący we wczesnym okresie Edo. Z racji braku jednego oka nazywanym jednookim smokiem.
+                </note>
+       <note n="5" xml:id="n-20-5" type="footnote">
+                    Quanto – Kantō, region Japoni, kraina geograficzna na wyspie Honsiu.
+                </note>
+       <note n="6" xml:id="n-21-6" type="footnote">
+                    podskarbi - szafarz pieniężny
+                </note>
+       <note n="7" xml:id="n-21-7" type="footnote">
+                    komisarz - osoba wyznaczona mocą prawną do sprawowania urzędu w komisji
+                </note>
+       <note n="8" xml:id="n-21-8" type="footnote">
+                    przerzeczony - wspomniany, wymieniony
+                </note>
+       <note n="9" xml:id="n-21-9" type="footnote">
+                    gwoździków - przypuszczalnie goździków
+                </note>
+       <note n="10" xml:id="n-22-10" type="footnote">
+                    pił do niego - wiele pić
+                </note>
+      <note n="11" xml:id="n-22-11" type="footnote">
+                    strony - kraj, kraina, okolica
+                </note>
+       <note n="12" xml:id="n-22-12" type="footnote">
+                    drugich - niektórych
+                </note>
+       <note n="13" xml:id="n-23-13" type="footnote">
+                    pewne - jakieś
+                </note>
+       <note n="14" xml:id="n-23-14" type="footnote">
+                    senatorowie - dostojnicy państwowi
+                </note>
+       <note n="15" xml:id="n-23-15" type="footnote">
+                    śklanice - szklanice
+                </note>
+       <note n="16" xml:id="n-24-16" type="footnote">
+                    niewyczerpniony - nieogarniony; niezgłębiony
+                </note>
+       <note n="17" xml:id="n-24-17" type="footnote">
+                    światło - intelligencja, umiejętność, nauki, oświecenie
+                </note>
+       <note n="18" xml:id="n-24-18" type="footnote">
+                    osobliwie - szczególnie, wyłącznie
+                </note>
+       <note n="19" xml:id="n-24-19" type="footnote">
+                    śrzodki - sposób, to co służy do osiągnienia czegoś
+                </note>
+       <note n="20" xml:id="n-24-20" type="footnote">
+                    ostatek - na koniec
+                </note>
+       <note n="21" xml:id="n-24-21" type="footnote">
+                    Nad grobem świętego Piotra wzniesiono bazylikę, którą zastąpiono świątynią wzniesioną w XVI i XVII wieku. Poświęcono ją 18 listopada 1626 roku. Bazylika świętego Piotra i bazylika świętego Pawła to dwie osobne budowle. Nie znalezino daty poświęcenia bazyliki świętego Pawła.
+                </note>
+<note n="22" xml:id="n-25-22" type="footnote">
+                    przeć - ; przeczyć; negować
+                </note>
+       <note n="23" xml:id="n-25-23" type="footnote">
+                    Amida, Jaka, Ramis i Fotoques - Postacie zwiazane z wierzeniami buddyjskimi. Amida to jedno z pięciu określeń Buddy, odpowiadające egipskiemu bogowi. Fotoques oznacza natomiast hotoke, czyli osobę, która osiagnęła stan Buddy. Nie udało się natomiast ustalić, kim dokłądnie są Ramis i Jaka. 
+                </note>
+       <note n="24" xml:id="n-25-24" type="footnote">
+                    przyrodzonemi - przykłady zachodzące w naturze, z przyrodzenia
+                </note>
+       <note n="25" xml:id="n-25-25" type="footnote">
+                    Chodzi o artykuły wiary.
+                </note>
+       <note n="26" xml:id="n-26-26" type="footnote">
+                    obłędliwego - błędny, pomyłkowy
+                </note>
+       <note n="27" xml:id="n-26-27" type="footnote">
+                    obracać - zmieniać, przemieniać
+                </note>
+       <note n="28" xml:id="n-26-28" type="footnote">
+                    kąkol - w znaczeniu dosłownym roślina z rodziny trawiastych; figuratywnie: nienawiść, zła namiętność; przyczyna niezgody, kłótni
+                </note>
+       <note n="29" xml:id="n-26-29" type="footnote">
+                    zakamieć - w kamień zamieniać, zakrzemleniać, zzakalać, zatwardzać
+                </note>
+       <note n="30" xml:id="n-28-30" type="footnote">
+                    traktować - rozprawiać, mówić
+                </note>
+ <note n="1" xml:id="n-28-1" type="footnote">
+                    ukontentowany - zadowolony, usatysfakcjonowany
+                </note>
+     <note n="2" xml:id="n-28-2" type="footnote">
+                     przemożny - przezwyciężony
+                </note>
+     <note n="3" xml:id="n-29-3" type="footnote">
+                    sposobny = odpowiedni
+                </note>
+     <note n="4" xml:id="n-29-4" type="footnote">
+                    sprośny -  niegodziwy, niemoralny, nieprzyzwoity 
+                </note>
+     <note n="29" xml:id="n-29-5" type="footnote">
+                    <ab/>przyrodzony - wrodzony, naturalny</note>
+     <note n="29" xml:id="n-29-6" type="footnote">
+                    zapalać - wybuchać gniewem
+                </note>
+      <note n="29" xml:id="n-29-7" type="footnote">
+                     Brak odpowiednich opisów w opracowaniach. Nie udało się odnaleźć informacji o tej postaci
+                </note>
+      <note n="29" xml:id="n-29-8" type="footnote">
+                     Brak odpowiednich opisów w opracowaniach. Nie udało się odnaleźć informacji o tej postaci
+                </note>
+      <note n="29" xml:id="n-29-9" type="footnote">
+                     Dharma - bogini buddyjska oraz nazwa nauk moralnych Buddy
+                </note>
+       <note n="30" xml:id="n-30-10" type="footnote">
+                    rezolwować się - zdecydować się 
+                </note>
+ <note n="1" xml:id="n-30-1" type="footnote">
+                    sekta – odłam religijny
+                </note>
+       <note n="2" xml:id="n-30-2" type="footnote">
+                    <ab/>konformować się – postępować zgodnie z czymś </note>
+       <note n="3" xml:id="n-30-3" type="footnote">
+                    pospolitą – tu: dotyczącą wszystkich </note>
+       <note n="4" xml:id="n-30-4" type="footnote">
+                    <ab/>kondycyjej – tu: sytuacji materialnej, pełnionej funkcji</note>
+       <note n="5" xml:id="n-30-5" type="footnote">
+                    <ab/>gwałtem – przemocą</note>
+       <note n="6" xml:id="n-31-6" type="footnote">
+                    <ab/>bałwańskich – przymiotnik odnoszący się do wyobrażenia bóstwa pogańskiego lub dotyczący samego bóstwa</note>
+       <note n="7" xml:id="n-31-7" type="footnote">
+                    <ab/> bońców – kapłanów religii japońskiej</note>
+        <note n="8" xml:id="n-31-8" type="footnote">
+                    <ab/>z pójśrzodku – tu: pośrodku</note>
+        <note n="9" xml:id="n-31-9" type="footnote">
+                    osiędę – tu: obejmę panowanie
+                </note>
+        <note n="10" xml:id="n-31-10" type="footnote">
+                    <ab/>November – listopad</note>
+        <note n="11" xml:id="n-32-11" type="footnote">
+                    <ab/>odwłoki – opóźnienia</note>
+        <note n="12" xml:id="n-32-12" type="footnote">
+                    <ab/>dostojeństwy - wspaniałością</note>
+        <note n="13" xml:id="n-32-13" type="footnote">
+                    <ab/> Kamis [kami] – imię przypisywane duchom czczonym w religii Shinto</note>
+        <note n="14" xml:id="n-32-14" type="footnote">
+                    Fotoques [hotoke] – nazwa buddyjskiego bóstwa
+                </note>
+        <note n="15" xml:id="n-32-15" type="footnote">
+                    członków – części
+                </note>
+        <note n="16" xml:id="n-32-16" type="footnote">
+                    myśliwcy – myśliwi
+                </note>
+        <note n="17" xml:id="n-32-17" type="footnote">
+                    opatrowali – sprawowali nad czymś opiekę, doglądali czegoś
+                </note>
+        <note n="18" xml:id="n-32-18" type="footnote">
+                    wniść – wejść 
+                </note>
+        <note n="1" xml:id="n-33-1" type="footnote">
+                    uciesznego – tu: świętego
+                </note>
+       <note n="2" xml:id="n-33-2" type="footnote">
+                    okazyją – sposobność
+                </note>
+       <note n="3" xml:id="n-34-3" type="footnote">
+                    zepsowanie – zniszczenie
+                </note>
+       <note n="4" xml:id="n-34-4" type="footnote">
+                    <ab/>Amidy – Amida Buddha</note>
+       <note n="5" xml:id="n-34-5" type="footnote">
+                    <ab/>żywie – żyje </note>
+       <note n="6" xml:id="n-35-6" type="footnote">
+                    <ab/>inszego – innego</note>
+       <note n="7" xml:id="n-35-7" type="footnote">
+                    <ab/>halabarniktów - strażników zamkowych</note>
+     <note n="1" xml:id="n-36-1" type="footnote">
+                    dumnych, wyniosłych
+                </note>
+       <note n="2" xml:id="n-37-2" type="footnote">
+                    tu: polecenie
+                </note>
+       <note n="3" xml:id="n-37-3" type="footnote">
+                    stawać na drodze, pokrzyżować plany
+                </note>
+     <note n="1" xml:id="n-38-1" type="footnote">
+                    powrót do miejsca
+                </note>
+       <note n="2" xml:id="n-38-2" type="footnote">
+                    stworzyć sojusz 
+                </note>
+       <note n="3" xml:id="n-38-3" type="footnote">
+                    chodzi o Filipiny
+                </note>
+       <note n="4" xml:id="n-38-4" type="footnote">
+                    rebeliantami
+                </note>
+       <note n="5" xml:id="n-39-5" type="footnote">
+                    łódź, okręt
+                </note>
+       <note n="6" xml:id="n-39-6" type="footnote">
+                    prawdopodobnie chodzi o 4 października, dzień odnotowuje się w kalendarzu liturgicznym jako wspomnienie św. Franciszka
+                </note>
+       <note n="7" xml:id="n-39-7" type="footnote">
+                    list dyplomatyczny przekazywany przez posłów
+                </note>
+       <note n="8" xml:id="n-39-8" type="footnote">
+                    rusypisku ziemi, wzniesieniu terenu
+                </note>
+       <note n="9" xml:id="n-40-9" type="footnote">
+                    (łac.) ogólnie
+                </note>
+<note n="1" xml:id="n-41-1" type="footnote">
+                    W 1614 władca Japonii Ieyasu Tokugawa wydał edykt zniszczenia chrześcijaństwa, a edykt ten potwierdził w 1616 jego następca Hidetada Tokugawa. Chrześcijaństwo zostało całkowicie zakazane w całej Japonii, jego wyznawcy zostali zobowiązani do przyjęcia buddyzmu lub shintō, a oporni mieli być karani śmiercią. Duża część japońskich katolików nie podporządkowała się edyktowi, co skutkowało okrutnymi represjami ze strony władz. Na przykład 2 września 1622 w Nagasaki zabito przez ścięcie lub spalenie żywcem 52 chrześcijan. Na skutek prześladowań katolicyzm zanikł w Japonii, z wyjątkiem regionu Nagasaki, gdzie nadal duża grupa wyznawców praktykowała chrześcijaństwo w ukryciu – stąd ich nazwa kakure-kirishitan („ukryci chrześcijanie”).
+                </note>
+       <note n="2" xml:id="n-41-2" type="footnote">
+                    Masamune Date (Date Masamune; ur. 5 września 1567, zm. 27 czerwca 1636) — japoński feudal żyjący w okresie Azuchi-Momoyama i wczesnym okresie Edo, spadkobierca długiej linii potężnych daimyō z rejonu Tōhoku, założyciel miasta Sendai, zręczny taktyk.
+                </note>
+       <note n="3" xml:id="n-41-3" type="footnote">
+                    Ludwik Sotelo, właśc. hiszp. Luis Sotelo (ur. 6 września 1574 r. w Sewilli w Andaluzji, zm. 25 sierpnia 1624 r. w Ōmuri na Kiusiu) – hiszpański biskup nominat, franciszkanin (OFM), misjonarz na Filipinach i w Japonii, męczennik chrześcijański i błogosławiony Kościoła rzymskokatolickiego.
+                </note>
+       <note n="4" xml:id="n-41-4" type="footnote">
+                    tu: zobaczyli się, spotkali się
+                </note>
+       <note n="5" xml:id="n-41-5" type="footnote">
+                    Nie udało się ustalić dokładniej postaci
+                </note>
+       <note n="6" xml:id="n-41-6" type="footnote">
+                    cesarz
+                </note>
+       <note n="7" xml:id="n-41-7" type="footnote">
+                    tu: zadowolić się 
+                </note>
+       <note n="8" xml:id="n-41-8" type="footnote">
+                    części ziemi oblanej ze wszystkich stron wodą, wyspy
+                </note>
+       <note n="9" xml:id="n-41-9" type="footnote">
+                    tu: gdzie
+                </note>
+       <note n="10" xml:id="n-41-10" type="footnote">
+                    dochody, zyski
+                </note>
+       <note n="11" xml:id="n-41-11" type="footnote">
+                    drugi siogun z rodu Tokugawa. Rządził w latach od 1605 do 1623. Uchwalił drakońskie, antychrześcijańskie prawo.i
+                </note>
+       <note n="12" xml:id="n-41-12" type="footnote">
+                    obecnie tereny dzisiejszego Tokio. W 1657 r. strawił trwający trzy dni pożar, w którym życie straciło około 100 tys. ludzi.
+                </note>
+       <note n="13" xml:id="n-42-13" type="footnote">
+                    Hiszpański mnich franciszkański Luis Sotelo, który prozelityzmuje w regionie Edo, przekonuje szoguna Tokugawę Ieyasu i jego syna Hidetadę do wysłania go jako ambasadora do Nowej Hiszpanii. Podróżował z hiszpańskimi marynarzami z San Francisco, wracając na San Buena Ventura, statek zbudowany dla szoguna przez angielskiego poszukiwacza przygód Williama Adamsa. W Nowej Hiszpanii Luis Sotelo spotyka wicekróla Luisa de Velasco, który zgadza się wysłać ambasadora do Japonii w osobie słynnego odkrywcy Sebastiána Vizcaíno z dodatkową misją eksploracji „Złotych Wysp. I srebra” (las Islas del Oro y de la Plata), który miał wtedy istnieć na wschód od wysp japońskich.
+                </note>
+       <note n="14" xml:id="n-42-14" type="footnote">
+                    okrywające wstydem lub hańbą, przynoszące hańbę albo wstyd
+                </note>
+       <note n="15" xml:id="n-42-15" type="footnote">
+                    daw. szwagra
+                </note>
+       <note n="16" xml:id="n-42-16" type="footnote">
+                    okręt, łódź
+                </note>
+       <note n="17" xml:id="n-42-17" type="footnote">
+                    misja poselska, poselstwo; sprawowanie urzędu lub czynności posła
+                </note>
+       <note n="18" xml:id="n-42-18" type="footnote">
+                    tym co przystoi, godzi się, być powinno
+                </note>
+       <note n="19" xml:id="n-42-19" type="footnote">
+                    urodził się w 1571 roku i zmarł w 1622 roku. Japoński samuraj , wasalem Daimyo z Sendai , Date Masamune, który skierował się do ambasady do Nowej Hiszpanii, a następnie do Europy pomiędzy 1613 a 1620 r . Był pierwszym japońskim urzędnikiem wysłanym do Ameryki, a kiedy udał się do Francji, nawiązał pierwszy znany bezpośredni kontakt między Francuzami i Japończykami w Saint-Tropez.
+                </note>
+       <note n="20" xml:id="n-42-20" type="footnote">
+                    Prawdopodobnie chodzi tu o miasto Yamagata w Japonii, jest to ośrodek administracyjny prefektury Yamagata, w północnej części wyspy Honsiu.
+                </note>
+       <note n="21" xml:id="n-42-21" type="footnote">
+                    wodzem naczelnym, generałem, zwierzchnikiem sił zbrojnych 
+                </note>
+       <note n="22" xml:id="n-43-22" type="footnote">
+                    inaczej: wzruszeniem umysłu, silnym uczuciem
+                </note>
+<note n="1" xml:id="n-43-1" type="footnote">
+                    na końcu
+                </note>
+    <note n="2" xml:id="n-43-2" type="footnote">
+                    w towarzystwie
+                </note>
+    <note n="3" xml:id="n-43-3" type="footnote">
+                    poprzednio wzmiankowanym
+                </note>
+    <note n="4" xml:id="n-44-4" type="footnote">
+                    duchownych nad parafią, przełożonych
+                </note>
+    <note n="5" xml:id="n-44-5" type="footnote">naśladowców czyjejś nauki, zwolenników<ab/>
+                </note>
+    <note n="6" xml:id="n-44-6" type="footnote">
+                    z powrotem, znowu, powtórnie
+                </note>
+    <note n="7" xml:id="n-44-7" type="footnote">
+                    dzieci
+                </note>
+    <note n="8" xml:id="n-44-8" type="footnote">
+                    daw. urzędnicy wybierani lub nominowani, spełniający funkcję rady; doradcy
+                </note>
+    <note n="9" xml:id="n-44-9" type="footnote">
+                    najbardziej stosownie
+                </note>
+    <note n="10" xml:id="n-44-10" type="footnote">
+                    oskarżając o coś, zarzucając coś
+                </note>
+    <note n="11" xml:id="n-44-11" type="footnote">
+                    podpadać pod coś, podlegać czemuś
+                </note>
+    <note n="12" xml:id="n-44-12" type="footnote">
+                    chodzi najprawdopodobniej o króla Filipa III Habsburga, władającego Hiszpanią w latach 1598-1621
+                </note>  
+    <note n="13" xml:id="n-45-13" type="footnote">
+                    zdał sprawę z czego, wytłumaczył się, odpowiedział na coś
+                </note>
+    <note n="14" xml:id="n-45-14" type="footnote">
+                    chodzi najprawdopodobniej o zakon franciszkanów, do którego należał Ludwik Soteli (konkretnie należał do Zakonu Braci Mniejszych). Celem tej katolickiej wspólnoty była realizacja życia ewangelicznego i apostolskiego w ubóstwie na wzór apostołów
+                </note>
+    <note n="15" xml:id="n-45-15" type="footnote">
+                    tu najprawdopodobniej: odstępstwo od wiary, odszczepieństwo, herezja; fałszywe, złe, mylne, niezgodne z prawdą rozumienie spraw religii
+                </note>
+    <note n="16" xml:id="n-45-16" type="footnote">
+                    duchownymi wygłaszającymi kazania
+                </note>
+    <note n="17" xml:id="n-46-17" type="footnote">
+                    wypłynięciu statkom
+                </note>
+    <note n="18" xml:id="n-46-18" type="footnote">
+                    poróżnili się
+                </note>
+    <note n="19" xml:id="n-46-19" type="footnote">
+                    nie udało się ustalić tożsamości
+                </note>
+    <note n="20" xml:id="n-46-20" type="footnote">
+                    inni
+                </note>
+    <note n="21" xml:id="n-46-21" type="footnote">
+                    spostrzeżenia
+                </note>
+    <note n="22" xml:id="n-46-22" type="footnote">na egzekwiach; na nabożeństwach żałobnych odprawianych przy trumnie zmarłego<ab/>
+                </note>
+       <note n="1" xml:id="n-46-1" type="footnote">
+                    właśc. Jedo lub Edo – dawna nazwa obecnej stolicy Japonii, Tokio
+                </note>
+      <note n="2" xml:id="n-46-2" type="footnote">
+                    Ignacy Towarzystwa Jezusowego, jezuita
+                </note>
+      <note n="3" xml:id="n-47-3" type="footnote">
+                    Nagasaki, miejsce rezydowania jezuitów
+                </note>
+      <note n="4" xml:id="n-47-4" type="footnote">
+                    przybyto
+                </note>
+      <note n="5" xml:id="n-47-5" type="footnote">
+                    nie udało się ustalić
+                </note>
+      <note n="6" xml:id="n-47-6" type="footnote">
+                    od nazwiska Dato Masamune, najpotężniejszych daimyō w Japonii, który założył miasto Sendai
+                </note>
+      <note n="7" xml:id="n-47-7" type="footnote">
+                    przygotować niezbędne rzeczy
+                </note>
+      <note n="8" xml:id="n-48-8" type="footnote">
+                    od wziętego z włoskiego wyrazu posta, często używany zamiennie z wyrazem poczta
+                </note>
+      <note n="9" xml:id="n-48-9" type="footnote">
+                    postój, przystanek w drodze
+                </note>
+      <note n="10" xml:id="n-48-10" type="footnote">
+                    włosy okalające wygolone miejsce, tzw. tonsura, miały przypominać koronę cierniową
+                </note>
+      <note n="11" xml:id="n-48-11" type="footnote">
+                    właśc. Hasekura Rokuemon Tsunenaga, samuraj, japoński poseł do papieża Pawła V i pierwszy japoński ambasador w Europie. Później, kiedy przyjął chrzest, zwano go Don Felipe Francisco Hasekura
+                </note>
+      <note n="12" xml:id="n-49-12" type="footnote">
+                    prawo, nakaz religijny
+                </note>
+<note n="1" xml:id="n-49-1" type="footnote">
+                    powiększeniu
+                </note>
+      <note n="2" xml:id="n-49-2" type="footnote">
+                    hiszpańska posiadłość kolonialna w Ameryce Północnej na terenie dzisiejszego Meksyku założona po podboju Azteków w 1521 r. Dużą rolę w kraju odgrywał Kościół katolicki, a zwłaszcza jezuici
+                </note>
+      <note n="3" xml:id="n-49-3" type="footnote">
+                    nie zwlekając
+                </note>
+      <note n="4" xml:id="n-49-4" type="footnote">
+                    Owca w symbolice biblijnej może mieć różne znaczenia, tu odnosi się do wiernych, chrześcijan. Zob. np.: Łk 15: 4–7.
+                </note>
+      <note n="5" xml:id="n-50-5" type="footnote">
+                    symboliczna nazwa duchowego obszaru pracy; w Biblii zazwyczaj odnosi się do Izraela lub królestwa bożego.
+                </note>
+      <note n="6" xml:id="n-50-6" type="footnote">
+                    znaleźni, odszukali, odkryli
+                </note>
+      <note n="7" xml:id="n-50-7" type="footnote">
+                    miasto w Japonii położone w północno-wschodniej części wyspy Honsiu nad Oceanem Spokojnym
+                </note>
+      <note n="8" xml:id="n-50-8" type="footnote">
+                    miasto w Japonii w północno-wschodniej części wyspy Honsiu
+                </note>
+      <note n="9" xml:id="n-50-9" type="footnote">
+                    japońskie wyspy na Morzu Wschodniochińskim
+                </note>
+      <note n="10" xml:id="n-50-10" type="footnote">
+                    miasto i post morski w Japonii położony na wyspie Honsiu nam Morzem Japońskim
+                </note>
+      <note n="11" xml:id="n-50-11" type="footnote">
+                    miasto w północnej Japonii na wyspie Honsiu
+                </note>
+      <note n="12" xml:id="n-50-12" type="footnote">
+                    miasto w Japonii w północnej części wyspy Honsiu
+                </note>
+      <note n="13" xml:id="n-50-13" type="footnote">
+                    wielką pokorę, skruchę
+                </note>
+      <note n="14" xml:id="n-50-14" type="footnote">
+                    synem brata w stosunku do stryja
+                </note>
+      <note n="15" xml:id="n-50-15" type="footnote">
+                    wychowawcy
+                </note>
+      <note n="16" xml:id="n-50-16" type="footnote">
+                    poganka, czcicielka fałszywych bożków, idoli
+                </note>
+      <note n="17" xml:id="n-51-17" type="footnote">
+                    wielki post, czas pokuty przygotowujący chrześcijan do świąt wielkanocnych.
+                </note>
+      <note n="18" xml:id="n-51-18" type="footnote">
+                    uprzykrzenia
+                </note>
+      <note n="19" xml:id="n-51-19" type="footnote">
+                    list urzędowy, dokument
+                </note>
+      <note n="20" xml:id="n-51-20" type="footnote">
+                    statek, okręt
+                </note>
+      <note n="21" xml:id="n-51-21" type="footnote">
+                    wyżej wymienionym, wspomnianym
+                </note>
+      <note n="22" xml:id="n-51-22" type="footnote">
+                    Towarzystwo Jezusowe, jezuici, męski zakon apostolski założony w 1534 r. przez Ignacego Loyolę (1491–1556).
+                </note>
+      <note n="23" xml:id="n-52-23" type="footnote">
+                    gwałtownych burzach, sztormach, nawałnicach
+                </note>
+      <note n="24" xml:id="n-52-24" type="footnote">
+                    miasto, port w Meksyku nad Oceanem Spokojnym
+                </note>
+      </div>
+    </back>
+  </text>
+</TEI>
