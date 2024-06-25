@@ -69,7 +69,7 @@ RUN curl -L -o /tmp/templating-${TEMPLATING_VERSION}.xar http://exist-db.org/exi
 
 FROM duncdrum/existdb:6.2.0-debug-j8
 
-ARG APP_NAME=tei-publisher-app
+ARG APP_NAME=amati
 ARG EXIST_VERSION=6.2.0
 
 # replace my-edition with name of your app
