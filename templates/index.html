@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <title data-template="config:app-title"/>
     <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
-    <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon2.ico"/>
     <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
     <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
     <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
@@ -20,8 +20,8 @@
         
         app-header-layout {
             background-image: url('resources/images/hasekura2.jpg');
-            background-size: 100% auto;
-            background-repeat-x: no-repeat;
+            background-size: cover;
+            background-repeat: no-repeat;
             background-color: #f0eeec;
             min-height: 100vh;
         }
@@ -46,7 +46,7 @@
                 display: none;
             }
             app-header-layout {
-                background-repeat-y: no-repeat;
+                background-repeat: no-repeat;
             }
         }
         
@@ -314,9 +314,10 @@
         <app-drawer-layout force-narrow="force-narrow">
             <app-drawer slot="drawer" align="right">
                 <div class="drawer-content">
-                    <pb-media-query query="(max-width: 1023px)">
-                        <div data-template="lib:include" data-template-path="templates/menu-drawer.html"/>
-                    </pb-media-query>
+        <h3>MENU</h3>        
+        <ul><li><a href="${app}/index.html" data-template="pages:parse-params">Start</a></li>
+         <li><a href="${app}/about.md" data-template="pages:parse-params">O edycji</a></li>
+         <li><a href="${app}/poslowie-full.xml" data-template="pages:parse-params">Posłowie japońscy</a></li></ul>
                 </div>
             </app-drawer>
             <app-header-layout>
