@@ -48,6 +48,11 @@
             app-header-layout {
                 background-repeat: no-repeat;
             }
+            .amhero {margin: 30px 30px;
+            width: 80%;
+            }
+            
+            .tp-title span {font-size: 30px;}
         }
         
         .tp-title {
@@ -305,6 +310,8 @@
 }
         }
 
+
+
     </style>
     </custom-style>
 </head>
@@ -315,9 +322,17 @@
             <app-drawer slot="drawer" align="right">
                 <div class="drawer-content">
         <h3>MENU</h3>        
-        <ul><li><a href="${app}/index.html" data-template="pages:parse-params">Start</a></li>
-         <li><a href="${app}/about.md" data-template="pages:parse-params">O edycji</a></li>
-         <li><a href="${app}/poslowie-full.xml" data-template="pages:parse-params">Posłowie japońscy</a></li></ul>
+        <ul>
+                            <li>
+                                <a href="${app}/index.html" data-template="pages:parse-params">Start</a>
+                            </li>
+         <li>
+                                <a href="${app}/about.md" data-template="pages:parse-params">O edycji</a>
+                            </li>
+         <li>
+                                <a href="${app}/poslowie-full.xml" data-template="pages:parse-params">Posłowie japońscy</a>
+                            </li>
+                        </ul>
                 </div>
             </app-drawer>
             <app-header-layout>
