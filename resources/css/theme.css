@@ -408,7 +408,10 @@ pb-drawer {
 @media (max-width: 1023px) {
   .version {
     display: block;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
+  
 }
 .version a {
     color: white;
