@@ -55,6 +55,9 @@
                     margin-left: 50px;
                     margin-top: 35px;
                 }
+                @media (max-width: 1023px) {
+                    pb-facsimile {display: none;}
+                }
             </style>
         </custom-style>
     </head>
@@ -66,9 +69,17 @@
                 <app-drawer slot="drawer" align="right">
                 <div class="drawer-content">
         <h3>MENU</h3>        
-        <ul><li><a href="${app}/index.html" data-template="pages:parse-params">Start</a></li>
-         <li><a href="${app}/about.md" data-template="pages:parse-params">O edycji</a></li>
-         <li><a href="${app}/poslowie-full.xml" data-template="pages:parse-params">Posłowie japońscy</a></li></ul>
+        <ul>
+                            <li>
+                                <a href="${app}/index.html" data-template="pages:parse-params">Start</a>
+                            </li>
+         <li>
+                                <a href="${app}/about.md" data-template="pages:parse-params">O edycji</a>
+                            </li>
+         <li>
+                                <a href="${app}/poslowie-full.xml" data-template="pages:parse-params">Posłowie japońscy</a>
+                            </li>
+                        </ul>
                 </div>
             </app-drawer>
                 <app-header-layout>
